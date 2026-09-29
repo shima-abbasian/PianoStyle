@@ -25,10 +25,37 @@ export default function ProductPage() {
 
   return (
     <div className="vb-container py-6">
-      <nav className="mb-6 text-xs text-ink-muted"><Link to="/">خانه</Link> / <Link to="/category">محصولات</Link> / {product.title}</nav>
-      <div className="grid gap-8 2xl:grid-cols-[minmax(0,2fr)_minmax(20rem,1fr)]"><ProductGallery product={product} /><ProductBuyBox product={product} /></div>
-      <section className="flow-root"><h2 id="related-title" className="vb-section-title">{product.relatedTitle}</h2><Rail labelledBy="related-title">{related.map(item => <li key={item.slug}><ProductCard product={item} /></li>)}</Rail></section>
-      <section className="mt-gutter"><div className="mx-auto max-w-4xl divide-y divide-line border-y border-line">{product.tabs.map((tab, index) => <details open={index === 0} key={tab.title}><summary className="cursor-pointer py-4 text-sm font-bold">{tab.title}</summary><p className="pb-4 text-sm text-ink-muted">{tab.body}</p></details>)}</div></section>
+      <nav className="mb-6 text-xs text-ink-muted">
+        <Link to="/">خانه</Link>
+        /
+        <Link to="/category">محصولات</Link>
+        / {product.title}
+      </nav>
+      <div className="grid gap-8 2xl:grid-cols-[minmax(0,2fr)_minmax(20rem,1fr)]">
+        <ProductGallery product={product} />
+        <ProductBuyBox product={product} />
+      </div>
+      <section className="flow-root">
+        <h2 id="related-title" className="vb-section-title">{product.relatedTitle}</h2>
+        <Rail labelledBy="related-title">{related.map(item =>
+          <li key={item.slug}>
+            <ProductCard product={item} />
+          </li>
+        )}
+        </Rail>
+      </section>
+      <section className="mt-gutter">
+        <div className="mx-auto max-w-4xl divide-y divide-line border-y border-line">
+          {product.tabs.map((tab, index) =>
+            <details open={index === 0} key={tab.title}>
+              <summary className="cursor-pointer py-4 text-sm font-bold">{tab.title}</summary>
+              <p className="pb-4 text-sm text-ink-muted">
+                {tab.body}
+              </p>
+            </details>
+          )}
+        </div>
+      </section>
     </div>
   )
 }
