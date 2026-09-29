@@ -1,14 +1,17 @@
 import { useLocation } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 import SmartLink from '../common/SmartLink'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
+import type { SiteData } from '../../data/site'
 
-function FooterColumn({ column }) {
+type FooterColumnData = SiteData['footer']['columns'][number]
+
+function FooterColumn({ column }: { column: FooterColumnData }) {
   const [open, setOpen] = useState(false)
 
   useEffect(() => {
     const desktop = window.matchMedia('(min-width: 48rem)')
-    const sync = event => setOpen(event.matches)
+    const sync = (event: MediaQueryList | MediaQueryListEvent) => setOpen(event.matches)
     sync(desktop)
     desktop.addEventListener('change', sync)
     return () => desktop.removeEventListener('change', sync)

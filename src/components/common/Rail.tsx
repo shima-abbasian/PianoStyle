@@ -1,9 +1,15 @@
-import { useRef } from 'react'
+import { useRef, type ReactNode } from 'react'
 import Icon from './Icon'
 
-export default function Rail({ children, className = '', labelledBy }) {
-  const ref = useRef(null)
-  const scroll = direction => ref.current?.scrollBy({
+interface RailProps {
+  children: ReactNode
+  className?: string
+  labelledBy?: string
+}
+
+export default function Rail({ children, className = '', labelledBy }: RailProps) {
+  const ref = useRef<HTMLUListElement>(null)
+  const scroll = (direction: number) => ref.current?.scrollBy({
     left: direction * ref.current.clientWidth * 0.75,
     behavior: 'smooth',
   })

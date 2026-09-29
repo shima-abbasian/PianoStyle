@@ -4,9 +4,9 @@
 
 ```text
 index.html
-  → src/main.jsx
+  → src/main.tsx
     → BrowserRouter
-      → src/App.jsx
+      → src/App.tsx
         → SiteLayout
           ├── Header / MegaMenu / Announcement
           ├── Page via <Outlet />
@@ -26,8 +26,8 @@ src/
 ├── pages/        کامپوننت سطح Route
 ├── data/         Mock data محلی
 ├── utils/        توابع خالص و بدون UI
-├── App.jsx       جدول Routeها
-├── main.jsx      Bootstrap برنامه
+├── App.tsx       جدول Routeها
+├── main.tsx      Bootstrap برنامه
 └── app.css       Tailwind + Token + CSS کامپوننت
 ```
 
@@ -55,7 +55,7 @@ Stateها محلی‌اند و Context یا Store سراسری وجود ندار
 
 1. فایل صفحه را در `src/pages/` بساز.
 2. بخش‌های بزرگ آن را در `src/components/<feature>/` جدا کن.
-3. Route را در `src/App.jsx` ثبت کن.
+3. Route را در `src/App.tsx` ثبت کن.
 4. عنوان صفحه را تنظیم کن.
 5. لینک داخلی را با React Router ایجاد کن.
 6. Route مستقیم، Refresh و Build را تست کن.

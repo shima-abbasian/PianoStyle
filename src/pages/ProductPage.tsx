@@ -4,9 +4,10 @@ import ProductGallery from '../components/common/ProductGallery'
 import ProductBuyBox from '../components/common/ProductBuyBox'
 import ProductCard from '../components/common/ProductCard'
 import Rail from '../components/common/Rail'
-import site from '../data/site.fa.json'
+import site from '../data/site'
+import type { ProductDetails } from '../data/site'
 
-function findProduct(slug) {
+function findProduct(slug?: string): ProductDetails {
   if (!slug || slug === site.pdp.slug) return site.pdp
   const item = site.plp.products.find(product => product.slug === slug) || site.plp.products[0]
   return {

@@ -1,8 +1,13 @@
 import { useState } from 'react'
 import { isOnSale, money, number } from '../../utils/format'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
+import type { ProductDetails } from '../../data/site'
 
-export default function ProductBuyBox({ product }) {
+interface ProductBuyBoxProps {
+  product: ProductDetails
+}
+
+export default function ProductBuyBox({ product }: ProductBuyBoxProps) {
   const [colour, setColour] = useState(product.colourName)
   const [size, setSize] = useState('')
   const sale = isOnSale(product)

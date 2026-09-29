@@ -27,6 +27,12 @@ npm run build
 npm run preview
 ```
 
+بررسی TypeScript بدون تولید فایل:
+
+```powershell
+npm run typecheck
+```
+
 خروجی Production در `dist/` ساخته می‌شود. `dist/` را دستی ویرایش نکن.
 
 ## روال پیشنهادی تغییر UI

@@ -4,7 +4,7 @@ import Announcement from './Announcement'
 import MegaMenu from './MegaMenu'
 import Icon from '../common/Icon'
 import SmartLink from '../common/SmartLink'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
 
 export default function Header() {
   const { pathname } = useLocation()

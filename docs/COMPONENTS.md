@@ -20,7 +20,7 @@
 | `FocusSection` | پرفروش‌ترین‌ها/Focus tiles |
 | `BrandsSection` | Hero برند و Rail برندها |
 
-ترتیب این بخش‌ها در `HomePage.jsx` تعیین می‌شود.
+ترتیب این بخش‌ها در `HomePage.tsx` تعیین می‌شود.
 
 ## Common
 

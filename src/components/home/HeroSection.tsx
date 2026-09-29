@@ -1,5 +1,5 @@
 import SmartLink from '../common/SmartLink'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
 
 export default function HeroSection() {
   const hero = site.hero

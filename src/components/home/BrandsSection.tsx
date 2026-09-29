@@ -1,6 +1,6 @@
 import Rail from '../common/Rail'
 import SmartLink from '../common/SmartLink'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
 
 export default function BrandsSection() {
   return (

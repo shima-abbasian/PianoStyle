@@ -2,16 +2,21 @@ import { Link } from 'react-router-dom'
 import { useState } from 'react'
 import Icon from './Icon'
 import { discountPercent, isOnSale, money, number } from '../../utils/format'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
+import type { CatalogProduct } from '../../data/site'
 
-export default function ProductCard({ product }) {
+interface ProductCardProps {
+  product: CatalogProduct
+}
+
+export default function ProductCard({ product }: ProductCardProps) {
   const [favorite, setFavorite] = useState(false)
   const sale = isOnSale(product)
 
   return (
     <article className="vb-product group">
       <div className="relative">
-        <Link to={`/product/${product.slug}`} className="vb-product__media" tabIndex="-1" aria-hidden="true">
+        <Link to={`/product/${product.slug}`} className="vb-product__media" tabIndex={-1} aria-hidden="true">
           <img src={product.image} alt="" className="vb-product__img" loading="lazy" width="600" height="800" />
         </Link>
         {product.isNew ? (

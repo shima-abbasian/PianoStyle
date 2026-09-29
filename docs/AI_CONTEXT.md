@@ -22,13 +22,13 @@
 - React Router
 - Vite 7
 - Tailwind CSS 4
-- JavaScript + JSX؛ TypeScript فعلاً استفاده نشده است
+- TypeScript + TSX با `strict` فعال
 
 ## فایل‌های ورودی اصلی
 
-- `src/main.jsx`: Mount برنامه
-- `src/App.jsx`: Routeها
-- `src/components/layout/SiteLayout.jsx`: Layout عمومی
+- `src/main.tsx`: Mount برنامه
+- `src/App.tsx`: Routeها
+- `src/components/layout/SiteLayout.tsx`: Layout عمومی
 - `src/app.css`: Tailwind، Tokenها و CSS کامپوننت‌ها
 - `src/data/site.fa.json`: کل دادهٔ نمونه
 
@@ -36,12 +36,12 @@
 
 | Route | صفحه | فایل |
 |---|---|---|
-| `/` | خانه | `src/pages/HomePage.jsx` |
-| `/category` | لیست همهٔ محصولات | `src/pages/CategoryPage.jsx` |
-| `/category/:slug` | زیردسته | `src/pages/CategoryPage.jsx` |
-| `/c/:slug` | Alias دسته‌بندی | `src/pages/CategoryPage.jsx` |
-| `/product/:slug` | جزئیات محصول | `src/pages/ProductPage.jsx` |
-| `/p/:slug` | Alias محصول | `src/pages/ProductPage.jsx` |
+| `/` | خانه | `src/pages/HomePage.tsx` |
+| `/category` | لیست همهٔ محصولات | `src/pages/CategoryPage.tsx` |
+| `/category/:slug` | زیردسته | `src/pages/CategoryPage.tsx` |
+| `/c/:slug` | Alias دسته‌بندی | `src/pages/CategoryPage.tsx` |
+| `/product/:slug` | جزئیات محصول | `src/pages/ProductPage.tsx` |
+| `/p/:slug` | Alias محصول | `src/pages/ProductPage.tsx` |
 
 ## نقشهٔ مستندات
 

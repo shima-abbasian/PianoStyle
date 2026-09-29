@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import Rail from '../common/Rail'
 import { money } from '../../utils/format'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
 
 export default function PromoBand() {
   const band = site.promoBand

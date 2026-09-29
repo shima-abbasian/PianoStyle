@@ -1,7 +1,12 @@
 import { useState } from 'react'
 import Icon from './Icon'
+import type { ProductDetails } from '../../data/site'
 
-export default function ProductGallery({ product }) {
+interface ProductGalleryProps {
+  product: ProductDetails
+}
+
+export default function ProductGallery({ product }: ProductGalleryProps) {
   const [favorite, setFavorite] = useState(false)
   return (
     <div className="grid grid-cols-2 gap-2">

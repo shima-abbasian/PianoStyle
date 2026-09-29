@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import SmartLink from '../common/SmartLink'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
 
-export default function MegaMenu({ open }) {
+export default function MegaMenu({ open }: { open: boolean }) {
   const [active, setActive] = useState(0)
   if (!open) return null
 

@@ -7,12 +7,13 @@ import BrandsSection from '../components/home/BrandsSection'
 
 export default function HomePage() {
   useEffect(() => { document.title = 'پیانو استایل' }, [])
-  return
-  <>
-    <HeroSection />
-    <CategoryTiles />
-    <PromoBand />
-    <FocusSection />
-    <BrandsSection />
-  </>
+  return (
+    <>
+      <HeroSection />
+      <CategoryTiles />
+      <PromoBand />
+      <FocusSection />
+      <BrandsSection />
+    </>
+  )
 }

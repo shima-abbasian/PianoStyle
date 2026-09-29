@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import site from '../../data/site.fa.json'
+import site from '../../data/site'
 
 export default function Announcement() {
   const [copied, setCopied] = useState('')
   const rows = [...site.announcements, site.announcements[0]]
 
-  async function copy(code) {
+  async function copy(code: string) {
     await navigator.clipboard?.writeText(code)
     setCopied(code)
     window.setTimeout(() => setCopied(''), 1500)

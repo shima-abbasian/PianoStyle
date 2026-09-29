@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import ProductCard from '../components/common/ProductCard'
 import { number } from '../utils/format'
-import site from '../data/site.fa.json'
+import site from '../data/site'
 
 export default function CategoryPage() {
   const { slug = site.plp.slug } = useParams()

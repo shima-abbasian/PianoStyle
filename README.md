@@ -30,8 +30,8 @@ src/
 ├── pages/
 ├── data/
 ├── utils/
-├── App.jsx
-├── main.jsx
+├── App.tsx
+├── main.tsx
 └── app.css
 ```
 
