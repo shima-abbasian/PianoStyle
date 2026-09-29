@@ -1,0 +1,24 @@
+{
+  "name": "piano-style-react",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Piano Style frontend with React, Vite and Tailwind CSS",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "@tailwindcss/vite": "^4.1.13",
+    "@vitejs/plugin-react": "^5.0.3",
+    "tailwindcss": "^4.3.3",
+    "vite": "^7.1.7"
+  }
+}

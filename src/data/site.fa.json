@@ -1,0 +1,5560 @@
+{
+  "brand": "پیانو استایل",
+  "currency": "تومان",
+  "menu": [
+    {
+      "key": "pap",
+      "label": "مد و پوشاک",
+      "url": "/c/pap",
+      "sectionTitle": "همه‌ی دنیای مد و پوشاک",
+      "promos": [
+        {
+          "label": "کالکشن جدید پوشاک و کفش",
+          "url": "/c/new-fashion-collection"
+        },
+        {
+          "label": "حراج: تا ۵۰٪ تخفیف*",
+          "url": "/c/clearance"
+        },
+        {
+          "label": "روزهای شاد: ۲۰٪ تخفیف*",
+          "url": "/c/all-selection"
+        },
+        {
+          "label": "ملزومات بازگشت به مدرسه 🎒",
+          "url": "/c/back-to-school-essentials"
+        }
+      ],
+      "groups": [
+        {
+          "title": "ملزومات نوزاد",
+          "links": [
+            {
+              "label": "کیسه خواب تابستانی ☀️",
+              "url": "/c/tog-tog-0-5-1-1-5-summer-special"
+            },
+            {
+              "label": "محصولات ما",
+              "url": "/c/baby"
+            },
+            {
+              "label": "سرهمی نوزاد",
+              "url": "/c/pyjamas"
+            },
+            {
+              "label": "کیسه خواب نوزاد",
+              "url": "/c/size-newborn"
+            },
+            {
+              "label": "بادی نوزاد",
+              "url": "/c/bodysuits-sleepsuits"
+            },
+            {
+              "label": "پسر نوزاد — ۰ تا ۱۸ ماه",
+              "url": "/c/gender-newborn-boy-0-18-months"
+            },
+            {
+              "label": "دختر نوزاد — ۰ تا ۱۸ ماه",
+              "url": "/c/gender-newborn-girl-0-18-months"
+            },
+            {
+              "label": "همه‌ی کالکشن نوزاد 👇",
+              "url": "/c/baby"
+            }
+          ]
+        },
+        {
+          "title": "دختر نوزاد ۰ تا ۳۶ ماه",
+          "links": [
+            {
+              "label": "کالکشن جدید",
+              "url": "/c/gender-girl"
+            },
+            {
+              "label": "راهنمای سایز نوزاد",
+              "url": "/c/size-guide-baby"
+            },
+            {
+              "label": "محصولات ما",
+              "url": "/c/gender-girl"
+            },
+            {
+              "label": "ست لباس",
+              "url": "/c/gender-girl"
+            },
+            {
+              "label": "کیسه خواب",
+              "url": "/c/gender-girl"
+            },
+            {
+              "label": "بادی",
+              "url": "/c/gender-girl"
+            },
+            {
+              "label": "سرهمی و اورال",
+              "url": "/c/dungarees-all-in-ones"
+            },
+            {
+              "label": "لباس خواب",
+              "url": "/c/pyjamas"
+            }
+          ]
+        },
+        {
+          "title": "پسر نوزاد ۰ تا ۳۶ ماه",
+          "links": [
+            {
+              "label": "کالکشن جدید",
+              "url": "/c/gender-boy"
+            },
+            {
+              "label": "راهنمای سایز نوزاد",
+              "url": "/c/size-guide-baby"
+            },
+            {
+              "label": "محصولات ما",
+              "url": "/c/gender-boy"
+            },
+            {
+              "label": "ست لباس",
+              "url": "/c/gender-boy"
+            },
+            {
+              "label": "کیسه خواب",
+              "url": "/c/gender-boy"
+            },
+            {
+              "label": "بادی",
+              "url": "/c/gender-boy"
+            },
+            {
+              "label": "اورال و سرهمی یک‌تکه",
+              "url": "/c/gender-boy"
+            },
+            {
+              "label": "لباس خواب",
+              "url": "/c/gender-boy"
+            }
+          ]
+        },
+        {
+          "title": "دخترانه",
+          "links": [
+            {
+              "label": "کالکشن جدید",
+              "url": "/c/girls"
+            },
+            {
+              "label": "ژونن",
+              "url": "/c/girls"
+            },
+            {
+              "label": "محصولات ما",
+              "url": "/c/girls"
+            },
+            {
+              "label": "پیراهن",
+              "url": "/c/dresses"
+            },
+            {
+              "label": "بلوز",
+              "url": "/c/tops"
+            },
+            {
+              "label": "تی‌شرت",
+              "url": "/c/t-shirts"
+            },
+            {
+              "label": "بلوز یقه‌اسکی",
+              "url": "/c/roll-neck-tops"
+            },
+            {
+              "label": "بلوز، پیراهن و تونیک",
+              "url": "/c/blouses-shirts-tunics"
+            }
+          ]
+        },
+        {
+          "title": "پسرانه",
+          "links": [
+            {
+              "label": "کالکشن جدید",
+              "url": "/c/boys"
+            },
+            {
+              "label": "ژونن",
+              "url": "/c/boys"
+            },
+            {
+              "label": "محصولات ما",
+              "url": "/c/boys"
+            },
+            {
+              "label": "بلوز",
+              "url": "/c/tops"
+            },
+            {
+              "label": "تی‌شرت",
+              "url": "/c/t-shirts"
+            },
+            {
+              "label": "پولوشرت",
+              "url": "/c/polo-shirts"
+            },
+            {
+              "label": "تی‌شرت یقه‌اسکی",
+              "url": "/c/roll-neck-t-shirts"
+            },
+            {
+              "label": "پیراهن مردانه/پسرانه",
+              "url": "/c/shirts"
+            }
+          ]
+        },
+        {
+          "title": "کفش",
+          "links": [
+            {
+              "label": "کالکشن جدید",
+              "url": "/c/shoes"
+            },
+            {
+              "label": "کفش نوزاد",
+              "url": "/c/baby-footwear"
+            },
+            {
+              "label": "پاپوش و کفش نرم (پیش از راه‌رفتن، ۰ تا ۹ ماه)",
+              "url": "/c/slippers-booties"
+            },
+            {
+              "label": "نخستین قدم‌ها (سایز ۱۶ تا ۲۲)",
+              "url": "/c/baby-s-first-steps"
+            },
+            {
+              "label": "کفش راه‌رفتن دخترانه (سایز ۲۳ تا ۳۴)",
+              "url": "/c/baby-girl-walking"
+            },
+            {
+              "label": "کفش راه‌رفتن پسرانه (سایز ۲۳ تا ۳۴)",
+              "url": "/c/baby-boy-walking"
+            },
+            {
+              "label": "کفش دخترانه (سایز ۳۵ تا ۴۰)",
+              "url": "/c/girls-footwear"
+            },
+            {
+              "label": "دمپایی رو‌فرشی",
+              "url": "/c/slippers"
+            }
+          ]
+        },
+        {
+          "title": "بارداری",
+          "links": [
+            {
+              "label": "کالکشن جدید",
+              "url": "/c/maternity"
+            },
+            {
+              "label": "محصولات ما",
+              "url": "/c/maternity"
+            },
+            {
+              "label": "لباس شیردهی",
+              "url": "/c/nursing-clothes"
+            },
+            {
+              "label": "کالکشن بدون درز",
+              "url": "/c/seamless-collection"
+            },
+            {
+              "label": "تی‌شرت و بلوز",
+              "url": "/c/t-shirts-tops"
+            },
+            {
+              "label": "بلوز، پیراهن و تونیک",
+              "url": "/c/blouses-shirts-tunics"
+            },
+            {
+              "label": "شلوارک",
+              "url": "/c/shorts"
+            },
+            {
+              "label": "شلوار",
+              "url": "/c/trousers"
+            }
+          ]
+        },
+        {
+          "title": "آنوی دو فرز 🍓",
+          "links": [
+            {
+              "label": "راهنمای جین",
+              "url": "/c/guide-denim-envie-de-fraise"
+            },
+            {
+              "label": "کالکشن مجلسی",
+              "url": "/c/landing-wedding"
+            },
+            {
+              "label": "لباس شیردهی",
+              "url": "/c/nursing-clothes"
+            },
+            {
+              "label": "پیراهن",
+              "url": "/c/dresses"
+            },
+            {
+              "label": "سرهمی و اورال",
+              "url": "/c/playsuits-dungarees"
+            },
+            {
+              "label": "تی‌شرت و بلوز",
+              "url": "/c/t-shirts-tops"
+            },
+            {
+              "label": "بلوز، پیراهن و تونیک",
+              "url": "/c/blouses-shirts-tunics"
+            },
+            {
+              "label": "لباس شنا و ساحلی",
+              "url": "/c/swimwear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "home",
+      "label": "خانه",
+      "url": "/c/home",
+      "sectionTitle": "همه‌ی دنیای خانه",
+      "promos": [
+        {
+          "label": "دنیای کوچک آن‌ها: ۱۵٪ تخفیف*",
+          "url": "/c/offer-selection"
+        },
+        {
+          "label": "کالکشن جدید خانه",
+          "url": "/c/bedding-decor"
+        }
+      ],
+      "groups": [
+        {
+          "title": "دکوراسیون",
+          "links": [
+            {
+              "label": "دکور دیواری",
+              "url": "/c/wall-decor"
+            },
+            {
+              "label": "ریسه‌ی پارچه‌ای",
+              "url": "/c/bunting"
+            },
+            {
+              "label": "روشنایی",
+              "url": "/c/lighting"
+            },
+            {
+              "label": "روشنایی تزیینی",
+              "url": "/c/decorative-lighting"
+            },
+            {
+              "label": "کوسن و کوسن کف",
+              "url": "/c/floor-cushions-cushions"
+            },
+            {
+              "label": "آینه",
+              "url": "/c/mirrors"
+            },
+            {
+              "label": "رخت‌آویز دیواری",
+              "url": "/c/wall-coat-hooks"
+            },
+            {
+              "label": "ساعت رومیزی",
+              "url": "/c/alarm-clocks"
+            }
+          ]
+        },
+        {
+          "title": "روتختی و خواب",
+          "links": [
+            {
+              "label": "روتختی نوزاد",
+              "url": "/c/baby-bedding"
+            },
+            {
+              "label": "روتختی کودک",
+              "url": "/c/child-s-bedding"
+            },
+            {
+              "label": "تشک",
+              "url": "/c/mattresses"
+            },
+            {
+              "label": "لحاف",
+              "url": "/c/duvets"
+            },
+            {
+              "label": "بالش",
+              "url": "/c/pillows"
+            },
+            {
+              "label": "محافظ تشک",
+              "url": "/c/mattress-protectors"
+            }
+          ]
+        },
+        {
+          "title": "حمام",
+          "links": [
+            {
+              "label": "حوله کلاه‌دار",
+              "url": "/c/bath-capes"
+            },
+            {
+              "label": "حوله تن‌پوش",
+              "url": "/c/bathrobes"
+            },
+            {
+              "label": "حوله پانچو",
+              "url": "/c/ponchos"
+            },
+            {
+              "label": "حوله",
+              "url": "/c/towels"
+            }
+          ]
+        },
+        {
+          "title": "نظم‌دهنده‌ی اتاق",
+          "links": [
+            {
+              "label": "جعبه و سبد نظم‌دهنده",
+              "url": "/c/storage-boxes-baskets"
+            },
+            {
+              "label": "صندوق نظم‌دهنده",
+              "url": "/c/storage-chests"
+            },
+            {
+              "label": "کتابخانه",
+              "url": "/c/bookcases"
+            },
+            {
+              "label": "قفسه",
+              "url": "/c/shelves"
+            },
+            {
+              "label": "کمد و جعبه‌ی نظم‌دهنده",
+              "url": "/c/storage-units-boxes"
+            }
+          ]
+        },
+        {
+          "title": "مبلمان",
+          "links": [
+            {
+              "label": "میز کنار تخت",
+              "url": "/c/bedside-tables"
+            },
+            {
+              "label": "میز و میز کنار تخت",
+              "url": "/c/tables-bedside-tables"
+            },
+            {
+              "label": "صندلی، چهارپایه و مبل",
+              "url": "/c/chairs-stools-armchairs"
+            }
+          ]
+        },
+        {
+          "title": "لوازم حیوان خانگی",
+          "links": [
+            {
+              "label": "تخت و تشک",
+              "url": "/c/beds-mats"
+            },
+            {
+              "label": "اسباب‌بازی",
+              "url": "/c/toys"
+            },
+            {
+              "label": "پیاده‌روی بیرون",
+              "url": "/c/outdoor-walks"
+            },
+            {
+              "label": "ظرف غذا",
+              "url": "/c/feeding-bowls"
+            },
+            {
+              "label": "لباس حیوان خانگی",
+              "url": "/c/pet-clothing"
+            },
+            {
+              "label": "لوازم سفر",
+              "url": "/c/travel-accessories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "nursery",
+      "label": "سیسمونی",
+      "url": "/c/nursery",
+      "sectionTitle": "همه‌ی دنیای سیسمونی",
+      "promos": [
+        {
+          "label": "دنیای کوچک آن‌ها: ۱۵٪ تخفیف*",
+          "url": "/c/offer-selection"
+        },
+        {
+          "label": "کیسه خواب تابستانی ☀️",
+          "url": "/c/tog-tog-0-5-1-1-5-summer-special"
+        },
+        {
+          "label": "کالکشن جدید سیسمونی",
+          "url": "/c/nursery"
+        }
+      ],
+      "groups": [
+        {
+          "title": "حمام، مراقبت و تغذیه‌ی نوزاد",
+          "links": [
+            {
+              "label": "پیش‌بند",
+              "url": "/c/bibs"
+            },
+            {
+              "label": "شیشه شیر",
+              "url": "/c/feeding-bottles"
+            },
+            {
+              "label": "گرم‌کن و استریل‌کننده‌ی شیشه شیر",
+              "url": "/c/bottle-warmer-sterilizer"
+            },
+            {
+              "label": "بخارپز غذا و لوازم جانبی",
+              "url": "/c/food-steamer-and-accessories"
+            },
+            {
+              "label": "کاسه و بشقاب",
+              "url": "/c/bowls-plates"
+            },
+            {
+              "label": "پستانک و دندان‌گیر",
+              "url": "/c/soothers-teething-ring"
+            },
+            {
+              "label": "شیردهی",
+              "url": "/c/breastfeeding"
+            }
+          ]
+        },
+        {
+          "title": "تشک تعویض و لوازم پوشک",
+          "links": [
+            {
+              "label": "تشک تعویض و روکش",
+              "url": "/c/changing-mats-covers"
+            },
+            {
+              "label": "میز تعویض",
+              "url": "/c/changing-tables"
+            },
+            {
+              "label": "پوشک",
+              "url": "/c/nappies"
+            },
+            {
+              "label": "دستمال مرطوب",
+              "url": "/c/wipes"
+            },
+            {
+              "label": "سطل پوشک",
+              "url": "/c/nappy-bins"
+            },
+            {
+              "label": "بهداشت و سلامت",
+              "url": "/c/health-care"
+            },
+            {
+              "label": "کیف لوازم نوزاد",
+              "url": "/c/changing-bags"
+            },
+            {
+              "label": "حمام و مراقبت نوزاد",
+              "url": "/c/bathing-babycare"
+            }
+          ]
+        },
+        {
+          "title": "کالسکه و لوازم جانبی",
+          "links": [
+            {
+              "label": "پتوی کالسکه و گهواره",
+              "url": "/c/pushchair-carry-cot-blankets"
+            },
+            {
+              "label": "گهواره و نشیمن کالسکه",
+              "url": "/c/carrycots-seat-units"
+            },
+            {
+              "label": "کالسکه",
+              "url": "/c/pushchairs-prams"
+            },
+            {
+              "label": "لوازم جانبی کالسکه",
+              "url": "/c/pushchair-accessories"
+            }
+          ]
+        },
+        {
+          "title": "صندلی خودرو",
+          "links": [
+            {
+              "label": "گروه ۰ و ‎+‎۰ (از تولد تا ۱۳ کیلوگرم)",
+              "url": "/c/group-0-0-birth-13kg"
+            },
+            {
+              "label": "گروه ۲ و ۳ (۱۵ تا ۳۶ کیلوگرم)",
+              "url": "/c/group-2-3-15kg-36kg"
+            },
+            {
+              "label": "گروه ۱، ۲ و ۳ (۹ تا ۳۶ کیلوگرم)",
+              "url": "/c/group-1-2-3-9kg-36kg"
+            },
+            {
+              "label": "لوازم جانبی",
+              "url": "/c/accessories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "toy",
+      "label": "اسباب‌بازی",
+      "url": "/c/toy",
+      "sectionTitle": "همه‌ی دنیای اسباب‌بازی",
+      "promos": [
+        {
+          "label": "دنیای کوچک آن‌ها: ۱۵٪ تخفیف*",
+          "url": "/c/offer-selection"
+        },
+        {
+          "label": "کالکشن جدید اسباب‌بازی",
+          "url": "/c/toys"
+        }
+      ],
+      "groups": [
+        {
+          "title": "اسباب‌بازی نوزاد و پیش‌دبستان",
+          "links": [
+            {
+              "label": "عروسک پارچه‌ای و دلبند",
+              "url": "/c/cuddly-toys-comforters"
+            },
+            {
+              "label": "تشک بازی",
+              "url": "/c/playmats"
+            },
+            {
+              "label": "اسباب‌بازی حسی و یادگیری اولیه",
+              "url": "/c/early-learning-sensory-toys"
+            },
+            {
+              "label": "اسباب‌بازی سواری",
+              "url": "/c/ride-ons"
+            },
+            {
+              "label": "اسباب‌بازی حمام",
+              "url": "/c/bath-toys"
+            },
+            {
+              "label": "اسباب‌بازی موسیقی",
+              "url": "/c/musical-toys"
+            }
+          ]
+        },
+        {
+          "title": "اسباب‌بازی نقش‌آفرینی",
+          "links": [
+            {
+              "label": "اسباب‌بازی آشپزخانه",
+              "url": "/c/kitchen-toys"
+            },
+            {
+              "label": "اسباب‌بازی کارگاه",
+              "url": "/c/workshop-toys"
+            },
+            {
+              "label": "چادر و سیاه‌چادر بازی",
+              "url": "/c/tents-teepees"
+            },
+            {
+              "label": "لباس نمایش",
+              "url": "/c/dress-up"
+            }
+          ]
+        },
+        {
+          "title": "عروسک و عروسک پارچه‌ای",
+          "links": [
+            {
+              "label": "عروسک پارچه‌ای و لوازم",
+              "url": "/c/soft-dolls-accessories"
+            },
+            {
+              "label": "عروسک و لوازم",
+              "url": "/c/dolls-accessories"
+            }
+          ]
+        },
+        {
+          "title": "بازی‌های آموزشی",
+          "links": [
+            {
+              "label": "پازل",
+              "url": "/c/puzzles"
+            },
+            {
+              "label": "شکل‌ها و رنگ‌ها",
+              "url": "/c/shapes-colours"
+            },
+            {
+              "label": "خواندن و شمردن",
+              "url": "/c/read-count"
+            },
+            {
+              "label": "علم و فناوری",
+              "url": "/c/science-technology"
+            }
+          ]
+        },
+        {
+          "title": "هنر و کاردستی",
+          "links": [
+            {
+              "label": "نقاشی و طراحی",
+              "url": "/c/painting-drawing"
+            },
+            {
+              "label": "خمیربازی و استیکر",
+              "url": "/c/dough-modelling-stickers"
+            },
+            {
+              "label": "جواهرسازی و اسباب‌بازی مد",
+              "url": "/c/jewellery-fashion-toys"
+            }
+          ]
+        },
+        {
+          "title": "ست‌های بازی",
+          "links": [
+            {
+              "label": "ماشین و قطار",
+              "url": "/c/cars-trains"
+            },
+            {
+              "label": "اسباب‌بازی ساختنی",
+              "url": "/c/building-toys"
+            },
+            {
+              "label": "فیگور حیوان و قهرمان",
+              "url": "/c/animal-heroes-figures"
+            }
+          ]
+        },
+        {
+          "title": "اسباب‌بازی فضای باز",
+          "links": [
+            {
+              "label": "بازی‌های حیاط",
+              "url": "/c/garden-games"
+            },
+            {
+              "label": "سه‌چرخه و اسکوتر",
+              "url": "/c/tricycles-scooters"
+            }
+          ]
+        },
+        {
+          "title": "بازی‌های رومیزی کلاسیک",
+          "links": [
+            {
+              "label": "بازی‌های حافظه و مشاهده",
+              "url": "/c/memory-and-observation-games"
+            },
+            {
+              "label": "بازی‌های مهارت و تعادل",
+              "url": "/c/skill-and-balance-games"
+            },
+            {
+              "label": "بازی‌های کلاسیک و معمایی",
+              "url": "/c/classic-and-puzzle-games"
+            },
+            {
+              "label": "حساب کاربری من",
+              "url": "/c/espaceclient-aspx"
+            },
+            {
+              "label": "ورود",
+              "url": "/c/authentification-aspx"
+            },
+            {
+              "label": "ثبت‌نام",
+              "url": "/c/authentification-aspx"
+            },
+            {
+              "label": "اطلاعات من",
+              "url": "/c/modificationcompte-aspx"
+            },
+            {
+              "label": "سفارش‌های من",
+              "url": "/c/commandes-aspx"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "search": {
+    "placeholder": "جست‌وجوی کیسه خواب نوزاد",
+    "submit": "جست‌وجو"
+  },
+  "account": {
+    "prompt": "وارد شوید و از تجربه‌ی شخصی‌سازی‌شده و پیشنهادهای ویژه بهره‌مند شوید!",
+    "title": "حساب کاربری من",
+    "login": "ورود",
+    "register": "ثبت‌نام",
+    "entries": [
+      "اطلاعات من",
+      "سفارش‌های من",
+      "مرجوعی‌های من",
+      "خانواده‌ی من"
+    ]
+  },
+  "basket": {
+    "label": "سبد خرید",
+    "empty": "سبد خرید شما خالی است.",
+    "itemsSuffix": "کالا"
+  },
+  "wishlist": {
+    "label": "علاقه‌مندی‌ها"
+  },
+  "source": {
+    "site": "https://www.vertbaudet.co.uk/",
+    "captured": "2026-08-10",
+    "gbpToToman": 100000
+  },
+  "announcements": [
+    {
+      "text": "کالکشن جدید: ۱۰۰٬۰۰۰ تومان تخفیف روی خرید بالای ۴٬۹۰۰٬۰۰۰ تومان*",
+      "url": "/c/new-collection"
+    },
+    {
+      "text": "ارسال رایگان روی همه‌ی سفارش‌ها! کد:",
+      "code": "FREEDEL",
+      "url": "/c/extra-off"
+    }
+  ],
+  "atTheMoment": [
+    {
+      "label": "کالکشن جدید: ۱۰۰٬۰۰۰ تومان تخفیف روی خرید بالای ۴٬۹۰۰٬۰۰۰ تومان* روی پوشاک و کفش",
+      "url": "/c/new-collection",
+      "image": "/img/ui/1.png"
+    },
+    {
+      "label": "دنیای کوچک آن‌ها: ۱۵٪ تخفیف* روی خانه، سیسمونی و اسباب‌بازی",
+      "url": "/c/offer-selection",
+      "image": "/img/ui/2.png"
+    },
+    {
+      "label": "حراج: تا ۵۰٪ تخفیف*",
+      "url": "/c/clearance",
+      "image": "/img/ui/3.png"
+    },
+    {
+      "label": "ملزومات بازگشت به مدرسه",
+      "url": "/c/back-to-school",
+      "image": "/img/ui/4.png"
+    },
+    {
+      "label": "قهرمان‌های محبوبشان",
+      "url": "/c/favourite-heroes",
+      "image": "/img/ui/5.png"
+    },
+    {
+      "label": "آنوی دو فرز",
+      "url": "/c/envie-de-fraise",
+      "image": "/img/ui/6.png"
+    }
+  ],
+  "hero": {
+    "logo": "/img/hp/logo-new-collection.svg",
+    "logoAlt": "کالکشن جدید",
+    "amount": "۱۰۰٬۰۰۰ تومان",
+    "amountSuffix": "تخفیف",
+    "conditions": "روی سفارش‌های بالای ۴٬۹۰۰٬۰۰۰ تومان*",
+    "conditionsStrong": "روی پوشاک و کفش",
+    "cta": "ببینید",
+    "mentions": "*مشاهده‌ی شرایط",
+    "url": "/c/new-collection",
+    "image": "/img/hp/hero-op1.jpg",
+    "imageMobile": "/img/hp/hero-op1-mob.jpg",
+    "bgColor": "#782386"
+  },
+  "categoryTiles": [
+    {
+      "label": "دخترانه",
+      "url": "/c/girls",
+      "image": "/img/hp/z2_categ01.jpg"
+    },
+    {
+      "label": "پسرانه",
+      "url": "/c/boys",
+      "image": "/img/hp/z2_categ02.jpg"
+    },
+    {
+      "label": "نوزاد",
+      "url": "/c/baby",
+      "image": "/img/hp/z2_categ03.jpg"
+    },
+    {
+      "label": "بارداری",
+      "url": "/c/maternity",
+      "image": "/img/hp/z2_categ05.jpg"
+    },
+    {
+      "label": "کفش",
+      "url": "/c/shoes",
+      "image": "/img/hp/z2_categ04.jpg"
+    }
+  ],
+  "promoBand": {
+    "title": "دنیای کوچک آن‌ها",
+    "amount": "۱۵",
+    "amountSuffix": "٪",
+    "off": "تخفیف*",
+    "conditions": "روی خانه، سیسمونی و اسباب‌بازی",
+    "cta": "همین حالا بخرید",
+    "mentions": "*مشاهده‌ی شرایط",
+    "url": "/c/offer-selection",
+    "image": "/img/hp/mise-en-avant.jpg"
+  },
+  "promoRail": [
+    {
+      "title": "تشک بازی طرح زندگی",
+      "sourceTitle": "Activity Mat, Life",
+      "slug": "activity-mat-life",
+      "image": "/img/catalog/1099738-activity-mat-life.jpg",
+      "price": 4330000,
+      "wasPrice": 5100000,
+      "discount": "15٪"
+    },
+    {
+      "title": "ست دو‌عددی صندوق فلزی تودرتو",
+      "sourceTitle": "Set of 2 Nesting Metal Trunks",
+      "slug": "set-of-2-nesting-metal-trunks",
+      "image": "/img/catalog/505627-set-of-2-nesting-metal-trunks.jpg",
+      "price": 5520000,
+      "wasPrice": 6500000,
+      "discount": "15٪"
+    },
+    {
+      "title": "حوله پانچو کودک",
+      "sourceTitle": "Bath Poncho for Children",
+      "slug": "bath-poncho-for-children",
+      "image": "/img/catalog/225658-bath-poncho-for-children.jpg",
+      "price": 2380000,
+      "wasPrice": 2800000,
+      "discount": "15٪"
+    },
+    {
+      "title": "کتابخانه — دو قفسه‌ی محفظه‌دار به‌همراه شلف، طرح صدفی",
+      "sourceTitle": "Bookcase - 2 Cubbyholes + Bookshelf, Scallops",
+      "slug": "bookcase-2-cubbyholes-bookshelf-scallops",
+      "image": "/img/catalog/376282-bookcase-2-cubbyholes-bookshelf-scallops.jpg",
+      "price": 8070000,
+      "wasPrice": 9500000,
+      "discount": "15٪"
+    },
+    {
+      "title": "ست روتختی و روبالشی کودک، طرح شهر ماشین‌ها",
+      "sourceTitle": "Children's Duvet Cover & Pillowcase Set, Auto City Theme",
+      "slug": "children-s-duvet-cover-pillowcase-set-auto-city-theme",
+      "image": "/img/catalog/696903-childrens-duvet-cover-pillowcase-set-auto-city-theme.jpg",
+      "price": 3060000,
+      "wasPrice": 3600000,
+      "discount": "15٪"
+    },
+    {
+      "title": "تشک کف‌خواب مدل فوتون",
+      "sourceTitle": "Futon-Type Floor Mattress",
+      "slug": "futon-type-floor-mattress",
+      "image": "/img/catalog/263971-futon-type-floor-mattress.jpg",
+      "price": 5520000,
+      "wasPrice": 6500000,
+      "discount": "15٪"
+    },
+    {
+      "title": "چوب باران تانزانیا",
+      "sourceTitle": "Tanzania Rainstick",
+      "slug": "tanzania-rainstick",
+      "image": "/img/catalog/115612-tanzania-rainstick.jpg",
+      "price": 1100000,
+      "wasPrice": 1300000,
+      "discount": "15٪"
+    },
+    {
+      "title": "روتختی و روبالشی دخترانه، طرح اسب‌های تک‌شاخ جادویی",
+      "sourceTitle": "Girls' Duvet Cover + Pillowcase, Magic Unicorns Theme",
+      "slug": "girls-duvet-cover-pillowcase-magic-unicorns-theme",
+      "image": "/img/catalog/506856-girls-duvet-cover-pillowcase-magic-unicorns-theme.jpg",
+      "price": 3400000,
+      "wasPrice": 4000000,
+      "discount": "15٪"
+    },
+    {
+      "title": "کیسه خواب بدون آستین نوزاد، طرح جنگل سبز",
+      "sourceTitle": "Sleeveless Baby Sleep Bag, Green Forest",
+      "slug": "sleeveless-baby-sleep-bag-green-forest",
+      "image": "/img/catalog/506749-sleeveless-baby-sleep-bag-green-forest.jpg",
+      "price": 2970000,
+      "wasPrice": 3500000,
+      "discount": "15٪"
+    },
+    {
+      "title": "لانه‌ی نوزاد از پنبه‌ی ارگانیک*، طرح رفقای کوچک",
+      "sourceTitle": "Baby Nest in Organic Cotton*, Little Pals",
+      "slug": "baby-nest-in-organic-cotton-little-pals",
+      "image": "/img/catalog/183465-baby-nest-in-organic-cotton-little-pals.jpg",
+      "price": 3060000,
+      "wasPrice": 3600000,
+      "discount": "15٪"
+    },
+    {
+      "title": "تخته‌ی تاشو سه‌کاره با ارتفاع قابل تنظیم — چوب دارای گواهی ‎FSC®‎ صددرصد",
+      "sourceTitle": "3-in-1 Foldable Board, Adjustable Height  - Wood FSC®100% Certified",
+      "slug": "3-in-1-foldable-board-adjustable-height-wood-fsc-100-certified",
+      "image": "/img/catalog/1149306-3-in-1-foldable-board-adjustable-height-wood-fsc100-certified.jpg",
+      "price": 5950000,
+      "wasPrice": 7000000,
+      "discount": "15٪"
+    },
+    {
+      "title": "کتابخانه‌ی سه‌طبقه، طرح ابر",
+      "sourceTitle": "3-Level Bookcase, Cloud",
+      "slug": "3-level-bookcase-cloud",
+      "image": "/img/catalog/507273-3-level-bookcase-cloud.jpg",
+      "price": 2720000,
+      "wasPrice": 3200000,
+      "discount": "15٪"
+    }
+  ],
+  "focusTitle": "پرفروش‌ترین‌ها",
+  "focusTiles": [
+    {
+      "label": "ملزومات بازگشت به مدرسه",
+      "url": "/c/back-to-school",
+      "image": "/img/hp/Zoom3.jpg",
+      "imageMobile": "/img/hp/Zoom3-mob.jpg"
+    },
+    {
+      "label": "شلوار جین نشکن",
+      "url": "/c/indestructible-jeans",
+      "image": "/img/hp/Zoom1.jpg",
+      "imageMobile": "/img/hp/Zoom1-mob.jpg"
+    },
+    {
+      "label": "فروشگاه بسته‌های چندتایی",
+      "url": "/c/multipack",
+      "image": "/img/hp/Zoom2.jpg",
+      "imageMobile": "/img/hp/Zoom2-mob.jpg"
+    },
+    {
+      "label": "بازی‌های آموزشی",
+      "url": "/c/educational-games",
+      "image": "/img/hp/Zoom4.jpg",
+      "imageMobile": "/img/hp/Zoom4-mob.jpg"
+    },
+    {
+      "label": "اقلام پایه",
+      "url": "/c/basics",
+      "image": "/img/hp/Zoom5.jpg",
+      "imageMobile": "/img/hp/Zoom5-mob.jpg"
+    },
+    {
+      "label": "سرویس شخصی‌سازی",
+      "url": "/c/personalised",
+      "image": "/img/hp/Zoom6.jpg",
+      "imageMobile": "/img/hp/Zoom6-mob.jpg"
+    }
+  ],
+  "brandsTitle": "استایل‌های تازه را کشف کن",
+  "brandsHero": {
+    "image": "/img/hp/marque-mea.jpg",
+    "imageMobile": "/img/hp/marque-mea-mob.jpg",
+    "cta": "ببینید",
+    "url": "/c/envie-de-fraise"
+  },
+  "brands": [
+    {
+      "label": "ژکو",
+      "url": "/c/djeco",
+      "image": "/img/hp/marque1.jpg"
+    },
+    {
+      "label": "لیوایز",
+      "url": "/c/levi-s",
+      "image": "/img/hp/marque2.jpg"
+    },
+    {
+      "label": "موشی",
+      "url": "/c/mushie",
+      "image": "/img/hp/marque3.jpg"
+    },
+    {
+      "label": "اسکیچرز",
+      "url": "/c/skechers",
+      "image": "/img/hp/marque4.jpg"
+    },
+    {
+      "label": "دان بای دیر",
+      "url": "/c/done-by-deer",
+      "image": "/img/hp/marque5.jpg"
+    }
+  ],
+  "allBrandsLabel": "همه‌ی برندها",
+  "allBrandsUrl": "/c/brands",
+  "seo": {
+    "heading": "پیانو استایل: متخصص پوشاک نوزاد، کودک و بارداری برای خانواده‌های ایرانی",
+    "blocks": [
+      "به پیانو استایل خوش آمدید؛ خانه‌ی پوشاک شیک و راحت نوزاد و کودک و لباس بارداری که برای زندگی واقعی خانواده‌ها طراحی شده است. از ملزومات نرم نوزادی تا لباس‌های بادوام برای نوپا و کودک، قطعه‌هایی می‌سازیم که پوشیدنشان آسان است، شست‌وشویشان ساده است و برای بازی ساخته شده‌اند.",
+      "پوشاک مقرون‌به‌صرفه‌ی نوزاد، لباس بارداری هوشمند که همراه شکم شما بزرگ می‌شود، سیسمونی، روتختی کودک، اسباب‌بازی و دکور را ببینید تا اتاق‌ها به فضایی جادویی تبدیل شوند. کالکشن‌های ما سبک را با کاربرد روزمره ترکیب می‌کنند تا با اطمینان کودکتان را برای مهدکودک، مدرسه و آخر هفته آماده کنید.",
+      "پارچه‌های ملایم را با دقت انتخاب می‌کنیم — از جمله پنبه‌ی ارگانیک برای لباس نوزاد — و در هر مرحله روی اندازه، ایمنی و راحتی تمرکز داریم؛ از نخستین سرهمی تا نخستین روز مدرسه."
+    ]
+  },
+  "plp": {
+    "slug": "girls",
+    "h1": "پوشاک دخترانه",
+    "breadcrumb": [
+      {
+        "label": "خانه",
+        "url": "/"
+      },
+      {
+        "label": "پوشاک دخترانه",
+        "url": "/c/girls"
+      }
+    ],
+    "currentCategory": {
+      "label": "دخترانه",
+      "count": 2882
+    },
+    "sortOptions": [
+      "جدیدترین",
+      "پرفروش‌ترین",
+      "ارزان‌ترین",
+      "گران‌ترین",
+      "بیشترین تخفیف"
+    ],
+    "subCategories": [
+      {
+        "label": "پالتو و کاپشن",
+        "count": 245,
+        "url": "/c/coats-jackets"
+      },
+      {
+        "label": "پیراهن",
+        "count": 367,
+        "url": "/c/dresses"
+      },
+      {
+        "label": "شلوار",
+        "count": 216,
+        "url": "/c/trousers"
+      },
+      {
+        "label": "شلوار جین",
+        "count": 144,
+        "url": "/c/jeans"
+      },
+      {
+        "label": "ژاکت، پلیور و سویشرت",
+        "count": 383,
+        "url": "/c/cardigans-jumpers-sweatshirts"
+      },
+      {
+        "label": "بلوز و تی‌شرت",
+        "count": 386,
+        "url": "/c/tops"
+      },
+      {
+        "label": "لباس زیر",
+        "count": 166,
+        "url": "/c/underwear"
+      },
+      {
+        "label": "لباس خواب",
+        "count": 171,
+        "url": "/c/nightwear"
+      },
+      {
+        "label": "دامن",
+        "count": 190,
+        "url": "/c/accessories"
+      },
+      {
+        "label": "شلوارک",
+        "count": 107,
+        "url": "/c/leggings"
+      },
+      {
+        "label": "ساق‌شلواری",
+        "count": 131,
+        "url": "/c/skirts"
+      },
+      {
+        "label": "لباس ورزشی",
+        "count": 87,
+        "url": "/c/blouses-shirts-tunics"
+      },
+      {
+        "label": "لباس شنا",
+        "count": 23,
+        "url": "/c/bathrobes-dressing-gowns"
+      },
+      {
+        "label": "مجلسی",
+        "count": 109,
+        "url": "/c/shorts"
+      },
+      {
+        "label": "جوراب و جوراب‌شلواری",
+        "count": 63,
+        "url": "/c/dungarees-playsuits"
+      },
+      {
+        "label": "کلاه و دستکش",
+        "count": 48,
+        "url": "/c/swimwear"
+      },
+      {
+        "label": "لباس مدرسه",
+        "count": 120,
+        "url": "/c/sportswear"
+      },
+      {
+        "label": "اقلام پایه",
+        "count": 87,
+        "url": "/c/sets"
+      }
+    ],
+    "products": [
+      {
+        "slug": "long-leggings-for-girls-black",
+        "title": "ساق‌شلواری بلند دخترانه — مشکی",
+        "sourceTitle": "Long leggings for girls - black",
+        "image": "/img/catalog/1325523-long-leggings-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1325523-long-leggings-for-girls.jpg",
+          "/img/catalog/1325413-long-leggings-for-girls.jpg",
+          "/img/catalog/1325494-long-leggings-for-girls.jpg",
+          "/img/catalog/1325456-long-leggings-for-girls.jpg",
+          "/img/catalog/1325512-long-leggings-for-girls.jpg",
+          "/img/catalog/1325410-long-leggings-for-girls.jpg"
+        ],
+        "price": 550000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "مشکی",
+            "image": "/img/catalog/1325523-long-leggings-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1325456-long-leggings-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "2-in-1-jumper-for-girls-lilac",
+        "title": "پلیور دوتکه دخترانه — یاسی",
+        "sourceTitle": "2-in-1 jumper for girls - lilac",
+        "image": "/img/catalog/1447024-2-in-1-jumper-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1447024-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1447117-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1447001-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1447115-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1423115-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1423533-2-in-1-jumper-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1423115-2-in-1-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "گوجه‌ای",
+            "image": "/img/catalog/1423406-2-in-1-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "یاسی",
+            "image": "/img/catalog/1447024-2-in-1-jumper-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "reversible-lightweight-jacket-for-girls-mauve",
+        "title": "کاپشن سبک دورو دخترانه — بنفش ملایم",
+        "sourceTitle": "Reversible Lightweight Jacket for Girls - mauve",
+        "image": "/img/catalog/1373644-reversible-lightweight-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1193379-reversible-lightweight-jacket-for-girls.gif",
+          "/img/catalog/1117126-reversible-lightweight-jacket-for-girls.jpg",
+          "/img/catalog/1116963-reversible-lightweight-jacket-for-girls.jpg",
+          "/img/catalog/1122884-reversible-lightweight-jacket-for-girls.jpg",
+          "/img/catalog/1117253-reversible-lightweight-jacket-for-girls.jpg",
+          "/img/catalog/1122891-reversible-lightweight-jacket-for-girls.jpg"
+        ],
+        "price": 3300000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/1122891-reversible-lightweight-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی روشن",
+            "image": "/img/catalog/1122952-reversible-lightweight-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1373644-reversible-lightweight-jacket-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-2-basics-leggings-for-girls-dark-grey",
+        "title": "بسته دوتایی ساق‌شلواری پایه دخترانه — خاکستری تیره",
+        "sourceTitle": "Pack of 2 Basics Leggings for Girls - dark grey",
+        "image": "/img/catalog/1373725-pack-of-2-basics-leggings-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1373725-pack-of-2-basics-leggings-for-girls.jpg",
+          "/img/catalog/1353484-pack-of-2-basics-leggings-for-girls.jpg",
+          "/img/catalog/1353296-pack-of-2-basics-leggings-for-girls.jpg",
+          "/img/catalog/1353844-pack-of-2-basics-leggings-for-girls.jpg",
+          "/img/catalog/1353968-pack-of-2-basics-leggings-for-girls.jpg",
+          "/img/catalog/1451967-pack-of-2-basics-leggings-for-girls.jpg"
+        ],
+        "price": 1200000,
+        "wasPrice": null,
+        "colourCount": 4,
+        "colourways": [
+          {
+            "name": "خاکستری تیره",
+            "image": "/img/catalog/1373725-pack-of-2-basics-leggings-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "صورتی کهنه",
+            "image": "/img/catalog/1451967-pack-of-2-basics-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکی",
+            "image": "/img/catalog/1129526-pack-of-2-basics-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/365391-pack-of-2-basics-leggings-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 3.8333,
+        "ratingCount": 12,
+        "isNew": true
+      },
+      {
+        "slug": "girls-floral-pop-hooded-sherpa-jacket-mauve",
+        "title": "کاپشن خزدار کلاه‌دار طرح گل دخترانه — بنفش ملایم",
+        "sourceTitle": "Girls' floral pop hooded sherpa jacket - mauve",
+        "image": "/img/catalog/1462226-girls-floral-pop-hooded-sherpa-jacket.jpg",
+        "gallery": [
+          "/img/catalog/1116614-girls-floral-pop-hooded-sherpa-jacket.jpg",
+          "/img/catalog/1116533-girls-floral-pop-hooded-sherpa-jacket.jpg",
+          "/img/catalog/1088996-girls-floral-pop-hooded-sherpa-jacket.jpg",
+          "/img/catalog/1089068-girls-floral-pop-hooded-sherpa-jacket.jpg",
+          "/img/catalog/1088900-girls-floral-pop-hooded-sherpa-jacket.jpg",
+          "/img/catalog/1116503-girls-floral-pop-hooded-sherpa-jacket.jpg"
+        ],
+        "price": 3800000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1088900-girls-floral-pop-hooded-sherpa-jacket.jpg",
+            "active": false
+          },
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/532861-girls-floral-pop-hooded-sherpa-jacket.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1462226-girls-floral-pop-hooded-sherpa-jacket.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 5.0,
+        "ratingCount": 2,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-ecru",
+        "title": "تی‌شرت آستین‌بلند دخترانه — شیری",
+        "sourceTitle": "Long-sleeved T-shirt for girls - ecru",
+        "image": "/img/catalog/1420395-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420395-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420198-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420665-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427274-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427370-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427412-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1420395-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "صورتی روشن",
+            "image": "/img/catalog/1427274-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "round-neck-sweatshirt-for-girls-ecru",
+        "title": "سویشرت یقه‌گرد دخترانه — شیری",
+        "sourceTitle": "Round-neck sweatshirt for girls - ecru",
+        "image": "/img/catalog/1316110-round-neck-sweatshirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1316110-round-neck-sweatshirt-for-girls.jpg",
+          "/img/catalog/1307958-round-neck-sweatshirt-for-girls.jpg",
+          "/img/catalog/1308004-round-neck-sweatshirt-for-girls.jpg",
+          "/img/catalog/1308020-round-neck-sweatshirt-for-girls.jpg",
+          "/img/catalog/1308046-round-neck-sweatshirt-for-girls.jpg",
+          "/img/catalog/1308027-round-neck-sweatshirt-for-girls.jpg"
+        ],
+        "price": 1400000,
+        "wasPrice": null,
+        "colourCount": 4,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1316110-round-neck-sweatshirt-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "عاجی",
+            "image": "/img/catalog/1308020-round-neck-sweatshirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکی روشن",
+            "image": "/img/catalog/1313243-round-neck-sweatshirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی روشن",
+            "image": "/img/catalog/1409071-round-neck-sweatshirt-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-pale-pink",
+        "title": "تی‌شرت آستین‌بلند دخترانه — صورتی روشن",
+        "sourceTitle": "Long-sleeved T-shirt for girls - pale pink",
+        "image": "/img/catalog/1427274-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420395-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420198-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420665-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427274-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427370-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427412-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1420395-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی روشن",
+            "image": "/img/catalog/1427274-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-blouse-for-girls-dusky-pink",
+        "title": "بلوز آستین‌بلند دخترانه — صورتی کهنه",
+        "sourceTitle": "Long-sleeved blouse for girls - dusky pink",
+        "image": "/img/catalog/1420265-long-sleeved-blouse-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420265-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1420067-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1419956-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1402053-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1401905-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1354029-long-sleeved-blouse-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "خاکی روشن",
+            "image": "/img/catalog/1354029-long-sleeved-blouse-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی کهنه",
+            "image": "/img/catalog/1420265-long-sleeved-blouse-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "dual-fabric-dress-for-girls-mauve",
+        "title": "پیراهن دوپارچه دخترانه — بنفش ملایم",
+        "sourceTitle": "Dual Fabric Dress for Girls - mauve",
+        "image": "/img/catalog/1452113-dual-fabric-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1308057-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308056-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308013-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308009-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1330484-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1330422-dual-fabric-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 5,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1330484-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/1308057-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "مرجانی",
+            "image": "/img/catalog/434624-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1349190-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1452113-dual-fabric-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.9286,
+        "ratingCount": 14,
+        "isNew": true
+      },
+      {
+        "slug": "basics-joggers-with-drawstring-for-girls-old-rose",
+        "title": "شلوار ورزشی بنددار پایه دخترانه — رز کهنه",
+        "sourceTitle": "Basics Joggers with Drawstring for Girls - old rose",
+        "image": "/img/catalog/1356413-basics-joggers-with-drawstring-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1084259-basics-joggers-with-drawstring-for-girls.jpg",
+          "/img/catalog/1084275-basics-joggers-with-drawstring-for-girls.jpg",
+          "/img/catalog/1084243-basics-joggers-with-drawstring-for-girls.jpg",
+          "/img/catalog/1084161-basics-joggers-with-drawstring-for-girls.jpg",
+          "/img/catalog/1356413-basics-joggers-with-drawstring-for-girls.jpg",
+          "/img/catalog/1356725-basics-joggers-with-drawstring-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1084259-basics-joggers-with-drawstring-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/1356413-basics-joggers-with-drawstring-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pinafore-dress-for-girls-medium-blue",
+        "title": "سارافون دخترانه — آبی متوسط",
+        "sourceTitle": "Pinafore dress for girls - medium blue",
+        "image": "/img/catalog/1423445-pinafore-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1423445-pinafore-dress-for-girls.jpg",
+          "/img/catalog/1423717-pinafore-dress-for-girls.jpg",
+          "/img/catalog/1418608-pinafore-dress-for-girls.jpg",
+          "/img/catalog/1418417-pinafore-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "آبی متوسط",
+            "image": "/img/catalog/1423445-pinafore-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "dual-fabric-dress-for-girls-sage-green",
+        "title": "پیراهن دوپارچه دخترانه — سبز مریمی",
+        "sourceTitle": "Dual Fabric Dress for Girls - sage green",
+        "image": "/img/catalog/1401940-dual-fabric-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1308057-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308056-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308013-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308009-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1330484-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1330422-dual-fabric-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 5,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1330484-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/1308057-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "مرجانی",
+            "image": "/img/catalog/434624-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1349190-dual-fabric-dress-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1452113-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.9286,
+        "ratingCount": 14,
+        "isNew": true
+      },
+      {
+        "slug": "3-in-1-detachable-parka-for-girls-blush",
+        "title": "پارکا سه‌کاره با آستر جداشدنی دخترانه — گلبهی",
+        "sourceTitle": "3-in-1 detachable parka for girls - blush",
+        "image": "/img/catalog/1455843-3-in-1-detachable-parka-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1455843-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1455486-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1455797-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1455946-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1420460-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1419857-3-in-1-detachable-parka-for-girls.jpg"
+        ],
+        "price": 5200000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1468848-3-in-1-detachable-parka-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "گلبهی",
+            "image": "/img/catalog/1420460-3-in-1-detachable-parka-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "dress-for-girls-denim-blue",
+        "title": "پیراهن دخترانه — آبی جین",
+        "sourceTitle": "Dress for girls - denim blue",
+        "image": "/img/catalog/1440833-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1440833-dress-for-girls.jpg",
+          "/img/catalog/1423161-dress-for-girls.jpg",
+          "/img/catalog/1423278-dress-for-girls.jpg",
+          "/img/catalog/1423314-dress-for-girls.jpg",
+          "/img/catalog/1441398-dress-for-girls.jpg",
+          "/img/catalog/1440563-dress-for-girls.jpg"
+        ],
+        "price": 2600000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "آبی جین",
+            "image": "/img/catalog/1423161-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "printed-leggings-for-girls-blue",
+        "title": "ساق‌شلواری طرح‌دار دخترانه — آبی",
+        "sourceTitle": "Printed Leggings for Girls - blue",
+        "image": "/img/catalog/1387914-printed-leggings-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1080329-printed-leggings-for-girls.jpg",
+          "/img/catalog/1080245-printed-leggings-for-girls.jpg",
+          "/img/catalog/1080378-printed-leggings-for-girls.jpg",
+          "/img/catalog/1080330-printed-leggings-for-girls.jpg",
+          "/img/catalog/1080365-printed-leggings-for-girls.jpg",
+          "/img/catalog/1080247-printed-leggings-for-girls.jpg"
+        ],
+        "price": 900000,
+        "wasPrice": null,
+        "colourCount": 7,
+        "colourways": [
+          {
+            "name": "آبی",
+            "image": "/img/catalog/1316101-printed-leggings-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "آبی نفتی",
+            "image": "/img/catalog/1080299-printed-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی طرح‌دار",
+            "image": "/img/catalog/810767-printed-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز دریایی",
+            "image": "/img/catalog/1080330-printed-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز طرح‌دار",
+            "image": "/img/catalog/530567-printed-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز بادامی",
+            "image": "/img/catalog/1080329-printed-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1316147-printed-leggings-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.2,
+        "ratingCount": 25,
+        "isNew": true
+      },
+      {
+        "slug": "fine-knit-basics-cardigan-for-girls-plum",
+        "title": "ژاکت بافت نازک پایه دخترانه — آلویی",
+        "sourceTitle": "Fine Knit Basics Cardigan for Girls - plum",
+        "image": "/img/catalog/1377191-fine-knit-basics-cardigan-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/813308-fine-knit-basics-cardigan-for-girls.jpg",
+          "/img/catalog/1419954-fine-knit-basics-cardigan-for-girls.jpg",
+          "/img/catalog/813450-fine-knit-basics-cardigan-for-girls.jpg",
+          "/img/catalog/813371-fine-knit-basics-cardigan-for-girls.jpg",
+          "/img/catalog/813334-fine-knit-basics-cardigan-for-girls.jpg",
+          "/img/catalog/813329-fine-knit-basics-cardigan-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 8,
+        "colourways": [
+          {
+            "name": "بژ ملانژ",
+            "image": "/img/catalog/813438-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/492395-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آبی خاکستری",
+            "image": "/img/catalog/527080-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/492308-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/813308-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی کهنه",
+            "image": "/img/catalog/813329-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز زمردی",
+            "image": "/img/catalog/442648-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1377191-fine-knit-basics-cardigan-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.7188,
+        "ratingCount": 32,
+        "isNew": true
+      },
+      {
+        "slug": "short-dress-with-long-sleeves-for-girls-cinnamon",
+        "title": "پیراهن کوتاه آستین‌بلند دخترانه — دارچینی",
+        "sourceTitle": "Short dress with long sleeves for girls - cinnamon",
+        "image": "/img/catalog/1343074-short-dress-with-long-sleeves-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1343074-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1343124-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1342560-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1342501-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1342908-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1343349-short-dress-with-long-sleeves-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "دارچینی",
+            "image": "/img/catalog/1343074-short-dress-with-long-sleeves-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1342501-short-dress-with-long-sleeves-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "wide-leg-trousers-for-girls-medium-blue",
+        "title": "شلوار دم‌پاگشاد دخترانه — آبی متوسط",
+        "sourceTitle": "Wide-leg trousers for girls - medium blue",
+        "image": "/img/catalog/1430234-wide-leg-trousers-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417401-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1417735-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1417802-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1430234-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1427419-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1427482-wide-leg-trousers-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "جین سفیدشده",
+            "image": "/img/catalog/1417401-wide-leg-trousers-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آبی متوسط",
+            "image": "/img/catalog/1430234-wide-leg-trousers-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-roll-neck-top-for-girls-ecru",
+        "title": "بلوز یقه‌اسکی آستین‌بلند دخترانه — شیری",
+        "sourceTitle": "Long-sleeved roll-neck top for girls - ecru",
+        "image": "/img/catalog/1440891-long-sleeved-roll-neck-top-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1440891-long-sleeved-roll-neck-top-for-girls.jpg",
+          "/img/catalog/1329073-long-sleeved-roll-neck-top-for-girls.jpg",
+          "/img/catalog/1329037-long-sleeved-roll-neck-top-for-girls.jpg",
+          "/img/catalog/1329079-long-sleeved-roll-neck-top-for-girls.jpg",
+          "/img/catalog/1329161-long-sleeved-roll-neck-top-for-girls.jpg",
+          "/img/catalog/1440514-long-sleeved-roll-neck-top-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1329073-long-sleeved-roll-neck-top-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "سبز",
+            "image": "/img/catalog/1420094-long-sleeved-roll-neck-top-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "dual-fabric-dress-for-girls-ecru",
+        "title": "پیراهن دوپارچه دخترانه — شیری",
+        "sourceTitle": "Dual Fabric Dress for Girls - ecru",
+        "image": "/img/catalog/1330484-dual-fabric-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1308057-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308056-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308013-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/1308009-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/434624-dual-fabric-dress-for-girls.jpg",
+          "/img/catalog/434794-dual-fabric-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 5,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1330484-dual-fabric-dress-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/1308057-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "مرجانی",
+            "image": "/img/catalog/434624-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1349190-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1452113-dual-fabric-dress-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.9286,
+        "ratingCount": 14,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-3-long-sleeved-t-shirts-for-girls-ink-blue",
+        "title": "بسته سه‌تایی تی‌شرت آستین‌بلند دخترانه — آبی نفتی",
+        "sourceTitle": "Pack of 3 long-sleeved T-shirts for girls - ink blue",
+        "image": "/img/catalog/1348904-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1342912-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1342520-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1343054-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1353497-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1343183-pack-of-3-long-sleeved-t-shirts-for-girls.jpg"
+        ],
+        "price": 1500000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1349294-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آبی نفتی",
+            "image": "/img/catalog/1348904-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "romantic-collar-jumper-for-girls-blush",
+        "title": "پلیور یقه‌رمانتیک دخترانه — گلبهی",
+        "sourceTitle": "Romantic collar jumper for girls - blush",
+        "image": "/img/catalog/1417632-romantic-collar-jumper-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417632-romantic-collar-jumper-for-girls.jpg",
+          "/img/catalog/1413478-romantic-collar-jumper-for-girls.jpg",
+          "/img/catalog/1417481-romantic-collar-jumper-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "گلبهی",
+            "image": "/img/catalog/1417632-romantic-collar-jumper-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "skort-for-girls-brut-denim",
+        "title": "شلوارک‌دامن دخترانه — جین خام",
+        "sourceTitle": "Skort for girls - brut denim",
+        "image": "/img/catalog/1309238-skort-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1309238-skort-for-girls.jpg",
+          "/img/catalog/1309306-skort-for-girls.jpg",
+          "/img/catalog/1309294-skort-for-girls.jpg",
+          "/img/catalog/1309304-skort-for-girls.jpg",
+          "/img/catalog/1402831-skort-for-girls.jpg",
+          "/img/catalog/1401823-skort-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "جین خام",
+            "image": "/img/catalog/1309238-skort-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-hooded-dress-for-girls-green",
+        "title": "پیراهن کوتاه کلاه‌دار دخترانه — سبز",
+        "sourceTitle": "Short hooded dress for girls - green",
+        "image": "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423585-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423646-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423677-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1387923-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1349004-short-hooded-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1349218-short-hooded-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکستری ملانژ",
+            "image": "/img/catalog/1349004-short-hooded-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز",
+            "image": "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-dress-with-long-sleeves-for-girls-ecru",
+        "title": "پیراهن کوتاه آستین‌بلند دخترانه — شیری",
+        "sourceTitle": "Short dress with long sleeves for girls - ecru",
+        "image": "/img/catalog/1342501-short-dress-with-long-sleeves-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1343074-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1343124-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1342560-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1342501-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1342908-short-dress-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1343349-short-dress-with-long-sleeves-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "دارچینی",
+            "image": "/img/catalog/1343074-short-dress-with-long-sleeves-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1342501-short-dress-with-long-sleeves-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "2-in-1-long-sleeved-dress-for-girls-camel",
+        "title": "پیراهن آستین‌بلند دوتکه دخترانه — شتری",
+        "sourceTitle": "2-in-1 long-sleeved dress for girls - camel",
+        "image": "/img/catalog/1387552-2-in-1-long-sleeved-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1387552-2-in-1-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1387614-2-in-1-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1388191-2-in-1-long-sleeved-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "شتری",
+            "image": "/img/catalog/1387552-2-in-1-long-sleeved-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۱ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-3-long-sleeved-t-shirts-for-girls-ecru",
+        "title": "بسته سه‌تایی تی‌شرت آستین‌بلند دخترانه — شیری",
+        "sourceTitle": "Pack of 3 long-sleeved T-shirts for girls - ecru",
+        "image": "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1342912-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1342520-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1343054-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1353497-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1343183-pack-of-3-long-sleeved-t-shirts-for-girls.jpg"
+        ],
+        "price": 1500000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1349294-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آبی نفتی",
+            "image": "/img/catalog/1348904-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-2-long-pyjamas-for-girls-slate-blue",
+        "title": "بسته دوتایی لباس‌خواب بلند دخترانه — آبی دودی",
+        "sourceTitle": "Pack of 2 long pyjamas for girls - slate blue",
+        "image": "/img/catalog/1434324-pack-of-2-long-pyjamas-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1434324-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1418006-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1418083-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1417775-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1417684-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1418094-pack-of-2-long-pyjamas-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "آبی دودی",
+            "image": "/img/catalog/1434324-pack-of-2-long-pyjamas-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-taupe",
+        "title": "تی‌شرت آستین‌بلند دخترانه — خاکی روشن",
+        "sourceTitle": "Long-sleeved T-shirt for girls - taupe",
+        "image": "/img/catalog/1342595-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420316-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420322-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420563-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427382-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427658-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427215-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 900000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1420316-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکی روشن",
+            "image": "/img/catalog/1342595-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1427382-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-2-pyjamas-for-girls-sage-green",
+        "title": "بسته دوتایی لباس‌خواب دخترانه — سبز مریمی",
+        "sourceTitle": "Pack of 2 pyjamas for girls - sage green",
+        "image": "/img/catalog/1450765-pack-of-2-pyjamas-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1450765-pack-of-2-pyjamas-for-girls.jpg",
+          "/img/catalog/1450223-pack-of-2-pyjamas-for-girls.jpg",
+          "/img/catalog/1450380-pack-of-2-pyjamas-for-girls.jpg",
+          "/img/catalog/1450481-pack-of-2-pyjamas-for-girls.jpg",
+          "/img/catalog/1450615-pack-of-2-pyjamas-for-girls.jpg",
+          "/img/catalog/1450716-pack-of-2-pyjamas-for-girls.jpg"
+        ],
+        "price": 2600000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1450765-pack-of-2-pyjamas-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "basics-jumper-for-girls-marl-beige",
+        "title": "پلیور پایه دخترانه — بژ ملانژ",
+        "sourceTitle": "BASICS Jumper for Girls - marl beige",
+        "image": "/img/catalog/1427220-basics-jumper-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/443236-basics-jumper-for-girls.jpg",
+          "/img/catalog/545042-basics-jumper-for-girls.jpg",
+          "/img/catalog/443238-basics-jumper-for-girls.jpg",
+          "/img/catalog/443239-basics-jumper-for-girls.jpg",
+          "/img/catalog/1427220-basics-jumper-for-girls.jpg",
+          "/img/catalog/1425594-basics-jumper-for-girls.jpg"
+        ],
+        "price": 1400000,
+        "wasPrice": null,
+        "colourCount": 5,
+        "colourways": [
+          {
+            "name": "بژ ملانژ",
+            "image": "/img/catalog/1427220-basics-jumper-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/367231-basics-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز خاکستری",
+            "image": "/img/catalog/443236-basics-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی پیونی",
+            "image": "/img/catalog/1106615-basics-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "صورتی تمشکی",
+            "image": "/img/catalog/862956-basics-jumper-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.2,
+        "ratingCount": 15,
+        "isNew": true
+      },
+      {
+        "slug": "customisable-long-sleeved-t-shirt-for-girls-ecru",
+        "title": "تی‌شرت آستین‌بلند قابل شخصی‌سازی دخترانه — شیری",
+        "sourceTitle": "Customisable long-sleeved T-shirt for girls - ecru",
+        "image": "/img/catalog/1342548-customisable-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1378562-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1378431-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1378665-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1342548-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1342949-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1343421-customisable-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 600000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1342548-customisable-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/1378562-customisable-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/1378427-customisable-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-leggings-for-girls-plum",
+        "title": "ساق‌شلواری بلند دخترانه — آلویی",
+        "sourceTitle": "Long leggings for girls - plum",
+        "image": "/img/catalog/1325456-long-leggings-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1325523-long-leggings-for-girls.jpg",
+          "/img/catalog/1325413-long-leggings-for-girls.jpg",
+          "/img/catalog/1325494-long-leggings-for-girls.jpg",
+          "/img/catalog/1325456-long-leggings-for-girls.jpg",
+          "/img/catalog/1325512-long-leggings-for-girls.jpg",
+          "/img/catalog/1325410-long-leggings-for-girls.jpg"
+        ],
+        "price": 550000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "مشکی",
+            "image": "/img/catalog/1325523-long-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1325456-long-leggings-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "skort-for-girls-camel",
+        "title": "شلوارک‌دامن دخترانه — شتری",
+        "sourceTitle": "Skort for girls - camel",
+        "image": "/img/catalog/1308035-skort-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1308035-skort-for-girls.jpg",
+          "/img/catalog/1307999-skort-for-girls.jpg",
+          "/img/catalog/1308053-skort-for-girls.jpg",
+          "/img/catalog/1308008-skort-for-girls.jpg",
+          "/img/catalog/1308017-skort-for-girls.jpg",
+          "/img/catalog/1307985-skort-for-girls.jpg"
+        ],
+        "price": 1800000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1309227-skort-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "شتری",
+            "image": "/img/catalog/1308035-skort-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1308017-skort-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-5-briefs-for-girls-beige",
+        "title": "بسته پنج‌تایی شورت دخترانه — بژ",
+        "sourceTitle": "Pack of 5 briefs for girls - beige",
+        "image": "/img/catalog/1438150-pack-of-5-briefs-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1438150-pack-of-5-briefs-for-girls.jpg",
+          "/img/catalog/1417779-pack-of-5-briefs-for-girls.jpg",
+          "/img/catalog/1417916-pack-of-5-briefs-for-girls.jpg",
+          "/img/catalog/1417676-pack-of-5-briefs-for-girls.jpg",
+          "/img/catalog/1417498-pack-of-5-briefs-for-girls.jpg",
+          "/img/catalog/1417700-pack-of-5-briefs-for-girls.jpg"
+        ],
+        "price": 1400000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "بژ",
+            "image": "/img/catalog/1438150-pack-of-5-briefs-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-3-long-sleeved-t-shirts-for-girls-vanilla",
+        "title": "بسته سه‌تایی تی‌شرت آستین‌بلند دخترانه — وانیلی",
+        "sourceTitle": "Pack of 3 long-sleeved T-shirts for girls - vanilla",
+        "image": "/img/catalog/1349294-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1342912-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1342520-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1343054-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1353497-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+          "/img/catalog/1343183-pack-of-3-long-sleeved-t-shirts-for-girls.jpg"
+        ],
+        "price": 1500000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1348966-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1349294-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "آبی نفتی",
+            "image": "/img/catalog/1348904-pack-of-3-long-sleeved-t-shirts-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "wide-leg-paperbag-jeans-for-girls-deep-blue",
+        "title": "شلوار جین دم‌پاگشاد کمرچین دخترانه — آبی سیر",
+        "sourceTitle": "Wide-leg paperbag jeans for girls - deep blue",
+        "image": "/img/catalog/1420498-wide-leg-paperbag-jeans-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420498-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1419742-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1420488-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1419849-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1417905-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1418148-wide-leg-paperbag-jeans-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آبی متوسط",
+            "image": "/img/catalog/1417905-wide-leg-paperbag-jeans-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آبی سیر",
+            "image": "/img/catalog/1420498-wide-leg-paperbag-jeans-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "hooded-puffer-jacket-for-girls-blue",
+        "title": "کاپشن پفی کلاه‌دار دخترانه — آبی",
+        "sourceTitle": "Hooded puffer jacket for girls - blue",
+        "image": "/img/catalog/1432116-hooded-puffer-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1432116-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1432435-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1430368-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1432143-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1452679-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1452330-hooded-puffer-jacket-for-girls.jpg"
+        ],
+        "price": 4400000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آبی",
+            "image": "/img/catalog/1432116-hooded-puffer-jacket-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1452679-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "printed-hooded-raincoat-for-girls-green",
+        "title": "بارانی کلاه‌دار طرح‌دار دخترانه — سبز",
+        "sourceTitle": "Printed hooded raincoat for girls - green",
+        "image": "/img/catalog/1452194-printed-hooded-raincoat-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1452194-printed-hooded-raincoat-for-girls.jpg",
+          "/img/catalog/1423428-printed-hooded-raincoat-for-girls.jpg",
+          "/img/catalog/1461049-printed-hooded-raincoat-for-girls.jpg",
+          "/img/catalog/1423260-printed-hooded-raincoat-for-girls.jpg",
+          "/img/catalog/1117246-printed-hooded-raincoat-for-girls.jpg",
+          "/img/catalog/1116994-printed-hooded-raincoat-for-girls.jpg"
+        ],
+        "price": 3800000,
+        "wasPrice": null,
+        "colourCount": 5,
+        "colourways": [
+          {
+            "name": "چندرنگ",
+            "image": "/img/catalog/520070-printed-hooded-raincoat-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/845275-printed-hooded-raincoat-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1122887-printed-hooded-raincoat-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز خاکستری",
+            "image": "/img/catalog/527979-printed-hooded-raincoat-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز",
+            "image": "/img/catalog/1452194-printed-hooded-raincoat-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.6667,
+        "ratingCount": 6,
+        "isNew": true
+      },
+      {
+        "slug": "lined-raincoat-for-girls-vanilla",
+        "title": "بارانی آستردار دخترانه — وانیلی",
+        "sourceTitle": "Lined raincoat for girls - vanilla",
+        "image": "/img/catalog/1418099-lined-raincoat-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1418099-lined-raincoat-for-girls.jpg",
+          "/img/catalog/1418119-lined-raincoat-for-girls.jpg",
+          "/img/catalog/1417586-lined-raincoat-for-girls.jpg",
+          "/img/catalog/1417453-lined-raincoat-for-girls.jpg",
+          "/img/catalog/1417721-lined-raincoat-for-girls.jpg",
+          "/img/catalog/1417992-lined-raincoat-for-girls.jpg"
+        ],
+        "price": 4400000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1418099-lined-raincoat-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-rosy",
+        "title": "تی‌شرت آستین‌بلند دخترانه — گلی",
+        "sourceTitle": "Long-sleeved T-shirt for girls - rosy",
+        "image": "/img/catalog/1342721-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1342721-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1419925-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1342966-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 900000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "گلی",
+            "image": "/img/catalog/1342721-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pleated-skort-for-girls-bordeaux-red",
+        "title": "شلوارک‌دامن پلیسه دخترانه — زرشکی",
+        "sourceTitle": "Pleated skort for girls - bordeaux red",
+        "image": "/img/catalog/1401836-pleated-skort-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1342903-pleated-skort-for-girls.jpg",
+          "/img/catalog/1342600-pleated-skort-for-girls.jpg",
+          "/img/catalog/1342626-pleated-skort-for-girls.jpg",
+          "/img/catalog/1401836-pleated-skort-for-girls.jpg",
+          "/img/catalog/1401627-pleated-skort-for-girls.jpg",
+          "/img/catalog/1330445-pleated-skort-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "بژ",
+            "image": "/img/catalog/1342903-pleated-skort-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "زرشکی",
+            "image": "/img/catalog/1330445-pleated-skort-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "سبز انگلیسی",
+            "image": "/img/catalog/1330551-pleated-skort-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "polka-dot-dress-in-cotton-gauze-for-girls-pecan-nut",
+        "title": "پیراهن خال‌خالی از گاز پنبه‌ای دخترانه — گردویی",
+        "sourceTitle": "Polka Dot Dress in Cotton Gauze for Girls - pecan nut",
+        "image": "/img/catalog/1423647-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1038032-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+          "/img/catalog/870781-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+          "/img/catalog/870752-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+          "/img/catalog/870884-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+          "/img/catalog/870869-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+          "/img/catalog/1038121-polka-dot-dress-in-cotton-gauze-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 4,
+        "colourways": [
+          {
+            "name": "گردویی",
+            "image": "/img/catalog/1423647-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/876384-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز کاج",
+            "image": "/img/catalog/870781-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/870838-polka-dot-dress-in-cotton-gauze-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "sherpa-lined-hooded-windcheater-for-girls-navy-blue",
+        "title": "بادگیر کلاه‌دار با آستر خزدار دخترانه — سرمه‌ای",
+        "sourceTitle": "Sherpa-Lined Hooded Windcheater for Girls - navy blue",
+        "image": "/img/catalog/1441572-sherpa-lined-hooded-windcheater-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1441572-sherpa-lined-hooded-windcheater-for-girls.jpg",
+          "/img/catalog/1423194-sherpa-lined-hooded-windcheater-for-girls.jpg",
+          "/img/catalog/1458473-sherpa-lined-hooded-windcheater-for-girls.jpg",
+          "/img/catalog/1116411-sherpa-lined-hooded-windcheater-for-girls.jpg",
+          "/img/catalog/1116534-sherpa-lined-hooded-windcheater-for-girls.jpg",
+          "/img/catalog/1122983-sherpa-lined-hooded-windcheater-for-girls.jpg"
+        ],
+        "price": 3500000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1441572-sherpa-lined-hooded-windcheater-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "رز",
+            "image": "/img/catalog/1122983-sherpa-lined-hooded-windcheater-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "lightweight-hooded-puffer-jacket-for-girls-lilac",
+        "title": "کاپشن پفی سبک کلاه‌دار دخترانه — یاسی",
+        "sourceTitle": "Lightweight hooded puffer jacket for girls - lilac",
+        "image": "/img/catalog/1374886-lightweight-hooded-puffer-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/523922-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/524000-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/523900-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/524015-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1374886-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1374968-lightweight-hooded-puffer-jacket-for-girls.jpg"
+        ],
+        "price": 2500000,
+        "wasPrice": null,
+        "colourCount": 6,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/842941-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز خاکستری",
+            "image": "/img/catalog/523922-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز",
+            "image": "/img/catalog/1127533-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/842948-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1343102-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "یاسی",
+            "image": "/img/catalog/1374886-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.1,
+        "ratingCount": 10,
+        "isNew": true
+      },
+      {
+        "slug": "lightweight-hooded-puffer-jacket-for-girls-plum",
+        "title": "کاپشن پفی سبک کلاه‌دار دخترانه — آلویی",
+        "sourceTitle": "Lightweight hooded puffer jacket for girls - plum",
+        "image": "/img/catalog/1343102-lightweight-hooded-puffer-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/523922-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/524000-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/523900-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/524015-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1374886-lightweight-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1374968-lightweight-hooded-puffer-jacket-for-girls.jpg"
+        ],
+        "price": 2500000,
+        "wasPrice": null,
+        "colourCount": 6,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/842941-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز خاکستری",
+            "image": "/img/catalog/523922-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز",
+            "image": "/img/catalog/1127533-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/842948-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1343102-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "یاسی",
+            "image": "/img/catalog/1374886-lightweight-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.1,
+        "ratingCount": 10,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-mauve",
+        "title": "تی‌شرت آستین‌بلند دخترانه — بنفش ملایم",
+        "sourceTitle": "Long-sleeved T-shirt for girls - mauve",
+        "image": "/img/catalog/1377482-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1377482-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1377555-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1376877-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1376670-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1377141-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1377083-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 550000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1376670-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1377482-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-blouse-for-girls-blush",
+        "title": "بلوز آستین‌بلند دخترانه — گلبهی",
+        "sourceTitle": "Long-sleeved blouse for girls - blush",
+        "image": "/img/catalog/1401840-long-sleeved-blouse-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1401840-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1401597-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1342778-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1343199-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1343437-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1403004-long-sleeved-blouse-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1343296-long-sleeved-blouse-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "گلبهی",
+            "image": "/img/catalog/1342778-long-sleeved-blouse-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "lightweight-puffer-jacket-for-girls-vanilla",
+        "title": "کاپشن پفی سبک دخترانه — وانیلی",
+        "sourceTitle": "Lightweight puffer jacket for girls - vanilla",
+        "image": "/img/catalog/1418095-lightweight-puffer-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417754-lightweight-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1417475-lightweight-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1417869-lightweight-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1417511-lightweight-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1418095-lightweight-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1417370-lightweight-puffer-jacket-for-girls.jpg"
+        ],
+        "price": 3500000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1418095-lightweight-puffer-jacket-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "صورتی کهنه",
+            "image": "/img/catalog/1417754-lightweight-puffer-jacket-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "buttoned-collar-cardigan-for-girls-bordeaux-red",
+        "title": "ژاکت یقه‌دکمه‌دار دخترانه — زرشکی",
+        "sourceTitle": "Buttoned collar cardigan for girls - bordeaux red",
+        "image": "/img/catalog/1417465-buttoned-collar-cardigan-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417465-buttoned-collar-cardigan-for-girls.jpg",
+          "/img/catalog/1413397-buttoned-collar-cardigan-for-girls.jpg",
+          "/img/catalog/1417932-buttoned-collar-cardigan-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "زرشکی",
+            "image": "/img/catalog/1417465-buttoned-collar-cardigan-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-knitted-cardigan-for-girls-sage-green",
+        "title": "ژاکت بافت آستین‌بلند دخترانه — سبز مریمی",
+        "sourceTitle": "Long-sleeved knitted cardigan for girls - sage green",
+        "image": "/img/catalog/1316155-long-sleeved-knitted-cardigan-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1305400-long-sleeved-knitted-cardigan-for-girls.jpg",
+          "/img/catalog/1305331-long-sleeved-knitted-cardigan-for-girls.jpg",
+          "/img/catalog/1305333-long-sleeved-knitted-cardigan-for-girls.jpg",
+          "/img/catalog/1388098-long-sleeved-knitted-cardigan-for-girls.jpg",
+          "/img/catalog/1384458-long-sleeved-knitted-cardigan-for-girls.jpg",
+          "/img/catalog/1305449-long-sleeved-knitted-cardigan-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1305400-long-sleeved-knitted-cardigan-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1316155-long-sleeved-knitted-cardigan-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "اسطوخودوسی",
+            "image": "/img/catalog/1384458-long-sleeved-knitted-cardigan-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-dress-for-girls-khaki",
+        "title": "پیراهن کوتاه دخترانه — خاکی",
+        "sourceTitle": "Short dress for girls - khaki",
+        "image": "/img/catalog/1330486-short-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1309298-short-dress-for-girls.jpg",
+          "/img/catalog/1309240-short-dress-for-girls.jpg",
+          "/img/catalog/1309351-short-dress-for-girls.jpg",
+          "/img/catalog/1330486-short-dress-for-girls.jpg",
+          "/img/catalog/1330543-short-dress-for-girls.jpg",
+          "/img/catalog/1330477-short-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1309298-short-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکی",
+            "image": "/img/catalog/1330486-short-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-long-sleeved-dress-for-girls-ivory",
+        "title": "پیراهن کوتاه آستین‌بلند دخترانه — عاجی",
+        "sourceTitle": "Short long-sleeved dress for girls - ivory",
+        "image": "/img/catalog/1342987-short-long-sleeved-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1342987-short-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1342596-short-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1343346-short-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1343189-short-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1330466-short-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1330515-short-long-sleeved-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1330466-short-long-sleeved-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "عاجی",
+            "image": "/img/catalog/1342987-short-long-sleeved-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "hooded-puffer-jacket-for-girls-navy-blue",
+        "title": "کاپشن پفی کلاه‌دار دخترانه — سرمه‌ای",
+        "sourceTitle": "Hooded puffer jacket for girls - navy blue",
+        "image": "/img/catalog/1452679-hooded-puffer-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1432116-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1432435-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1430368-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1432143-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1452679-hooded-puffer-jacket-for-girls.jpg",
+          "/img/catalog/1452330-hooded-puffer-jacket-for-girls.jpg"
+        ],
+        "price": 4400000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آبی",
+            "image": "/img/catalog/1432116-hooded-puffer-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1452679-hooded-puffer-jacket-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "2-in-1-jumper-for-girls-tomato-red",
+        "title": "پلیور دوتکه دخترانه — گوجه‌ای",
+        "sourceTitle": "2-in-1 jumper for girls - tomato red",
+        "image": "/img/catalog/1423406-2-in-1-jumper-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1447024-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1447117-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1447001-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1447115-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1423115-2-in-1-jumper-for-girls.jpg",
+          "/img/catalog/1423533-2-in-1-jumper-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1423115-2-in-1-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "گوجه‌ای",
+            "image": "/img/catalog/1423406-2-in-1-jumper-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "یاسی",
+            "image": "/img/catalog/1447024-2-in-1-jumper-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-polo-shirt-for-girls-sweet-pink",
+        "title": "پولوشرت آستین‌بلند دخترانه — صورتی روشن",
+        "sourceTitle": "Long-sleeved polo shirt for girls - sweet pink",
+        "image": "/img/catalog/1377024-long-sleeved-polo-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1377024-long-sleeved-polo-shirt-for-girls.jpg",
+          "/img/catalog/1376845-long-sleeved-polo-shirt-for-girls.jpg",
+          "/img/catalog/1377044-long-sleeved-polo-shirt-for-girls.jpg"
+        ],
+        "price": 1400000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "صورتی روشن",
+            "image": "/img/catalog/1377024-long-sleeved-polo-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "hooded-jacket-for-girls-vanilla",
+        "title": "کاپشن کلاه‌دار دخترانه — وانیلی",
+        "sourceTitle": "Hooded jacket for girls - vanilla",
+        "image": "/img/catalog/1330453-hooded-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1330453-hooded-jacket-for-girls.jpg",
+          "/img/catalog/1330531-hooded-jacket-for-girls.jpg",
+          "/img/catalog/1330435-hooded-jacket-for-girls.jpg",
+          "/img/catalog/1330459-hooded-jacket-for-girls.jpg",
+          "/img/catalog/1330493-hooded-jacket-for-girls.jpg"
+        ],
+        "price": 3500000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1330453-hooded-jacket-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "embroidered-girl-s-mom-fit-trouser-plum",
+        "title": "شلوار مام‌فیت گلدوزی‌شده دخترانه — آلویی",
+        "sourceTitle": "Embroidered girl's mom fit trouser - plum",
+        "image": "/img/catalog/1430970-embroidered-girls-mom-fit-trouser.jpg",
+        "gallery": [
+          "/img/catalog/1105567-embroidered-girls-mom-fit-trouser.jpg",
+          "/img/catalog/1084207-embroidered-girls-mom-fit-trouser.jpg",
+          "/img/catalog/1084197-embroidered-girls-mom-fit-trouser.jpg",
+          "/img/catalog/1430970-embroidered-girls-mom-fit-trouser.jpg",
+          "/img/catalog/1430275-embroidered-girls-mom-fit-trouser.jpg",
+          "/img/catalog/1427599-embroidered-girls-mom-fit-trouser.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سبز خاکستری",
+            "image": "/img/catalog/1105567-embroidered-girls-mom-fit-trouser.jpg",
+            "active": false
+          },
+          {
+            "name": "گلی",
+            "image": "/img/catalog/1105543-embroidered-girls-mom-fit-trouser.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1430970-embroidered-girls-mom-fit-trouser.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-2-long-pyjamas-for-girls-sage-green",
+        "title": "بسته دوتایی لباس‌خواب بلند دخترانه — سبز مریمی",
+        "sourceTitle": "Pack of 2 long pyjamas for girls - sage green",
+        "image": "/img/catalog/1374653-pack-of-2-long-pyjamas-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1374653-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1349216-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1349376-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1348752-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1348784-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1349239-pack-of-2-long-pyjamas-for-girls.jpg"
+        ],
+        "price": 2500000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1374653-pack-of-2-long-pyjamas-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-dress-for-girls-ecru",
+        "title": "پیراهن کوتاه دخترانه — شیری",
+        "sourceTitle": "Short dress for girls - ecru",
+        "image": "/img/catalog/1309298-short-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1309298-short-dress-for-girls.jpg",
+          "/img/catalog/1309240-short-dress-for-girls.jpg",
+          "/img/catalog/1309351-short-dress-for-girls.jpg",
+          "/img/catalog/1330486-short-dress-for-girls.jpg",
+          "/img/catalog/1330543-short-dress-for-girls.jpg",
+          "/img/catalog/1330477-short-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1309298-short-dress-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "خاکی",
+            "image": "/img/catalog/1330486-short-dress-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "wide-leg-trousers-for-girls-purple-clover",
+        "title": "شلوار دم‌پاگشاد دخترانه — ارغوانی",
+        "sourceTitle": "Wide-leg trousers for girls - purple clover",
+        "image": "/img/catalog/1376797-wide-leg-trousers-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417995-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1418144-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1417924-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1376797-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1377334-wide-leg-trousers-for-girls.jpg",
+          "/img/catalog/1376798-wide-leg-trousers-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1417995-wide-leg-trousers-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "ارغوانی",
+            "image": "/img/catalog/1376797-wide-leg-trousers-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "wide-leg-paperbag-jeans-for-girls-medium-blue",
+        "title": "شلوار جین دم‌پاگشاد کمرچین دخترانه — آبی متوسط",
+        "sourceTitle": "Wide-leg paperbag jeans for girls - medium blue",
+        "image": "/img/catalog/1417905-wide-leg-paperbag-jeans-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420498-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1419742-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1420488-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1419849-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1417905-wide-leg-paperbag-jeans-for-girls.jpg",
+          "/img/catalog/1418148-wide-leg-paperbag-jeans-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آبی متوسط",
+            "image": "/img/catalog/1417905-wide-leg-paperbag-jeans-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "آبی سیر",
+            "image": "/img/catalog/1420498-wide-leg-paperbag-jeans-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "sleeveless-lightweight-jacket-with-floral-pattern-for-girls-navy-blue",
+        "title": "کاپشن سبک بدون آستین طرح گل دخترانه",
+        "sourceTitle": "Sleeveless Lightweight Jacket with Floral Pattern for Girls...",
+        "image": "/img/catalog/1356403-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1356403-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+          "/img/catalog/1356493-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+          "/img/catalog/1356569-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+          "/img/catalog/842909-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+          "/img/catalog/842976-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+          "/img/catalog/843016-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1356403-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "صورتی طرح‌دار",
+            "image": "/img/catalog/842909-sleeveless-lightweight-jacket-with-floral-pattern-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-mauve",
+        "title": "تی‌شرت آستین‌بلند دخترانه — بنفش ملایم",
+        "sourceTitle": "Long-sleeved T-shirt for girls - mauve",
+        "image": "/img/catalog/1427382-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420316-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420322-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420563-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427382-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427658-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1427215-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 900000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1420316-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکی روشن",
+            "image": "/img/catalog/1342595-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1427382-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-dress-for-girls",
+        "title": "پیراهن آستین‌بلند دخترانه",
+        "sourceTitle": "Long-sleeved dress for girls",
+        "image": "/img/catalog/1387830-long-sleeved-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1387830-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1388178-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1387757-long-sleeved-dress-for-girls.jpg",
+          "/img/catalog/1387753-long-sleeved-dress-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "شتری",
+            "image": "/img/catalog/1387830-long-sleeved-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "skort-for-girls-navy-blue",
+        "title": "شلوارک‌دامن دخترانه — سرمه‌ای",
+        "sourceTitle": "Skort for girls - navy blue",
+        "image": "/img/catalog/1309227-skort-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1308035-skort-for-girls.jpg",
+          "/img/catalog/1307999-skort-for-girls.jpg",
+          "/img/catalog/1308053-skort-for-girls.jpg",
+          "/img/catalog/1308008-skort-for-girls.jpg",
+          "/img/catalog/1308017-skort-for-girls.jpg",
+          "/img/catalog/1307985-skort-for-girls.jpg"
+        ],
+        "price": 1800000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1309227-skort-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "شتری",
+            "image": "/img/catalog/1308035-skort-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1308017-skort-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-sweatshirt-dress-for-girls-ecru",
+        "title": "پیراهن کوتاه سویشرتی دخترانه — شیری",
+        "sourceTitle": "Short sweatshirt dress for girls - ecru",
+        "image": "/img/catalog/1309315-short-sweatshirt-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1309315-short-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1309321-short-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1309271-short-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1387908-short-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1316138-short-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1316157-short-sweatshirt-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1309315-short-sweatshirt-dress-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "زیتونی",
+            "image": "/img/catalog/1316138-short-sweatshirt-dress-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "3-in-1-detachable-parka-for-girls-navy-blue",
+        "title": "پارکا سه‌کاره با آستر جداشدنی دخترانه — سرمه‌ای",
+        "sourceTitle": "3-in-1 detachable parka for girls - navy blue",
+        "image": "/img/catalog/1468848-3-in-1-detachable-parka-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1455843-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1455486-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1455797-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1455946-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1420460-3-in-1-detachable-parka-for-girls.jpg",
+          "/img/catalog/1419857-3-in-1-detachable-parka-for-girls.jpg"
+        ],
+        "price": 5200000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1468848-3-in-1-detachable-parka-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "گلبهی",
+            "image": "/img/catalog/1420460-3-in-1-detachable-parka-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-blouse-for-girls-taupe",
+        "title": "بلوز آستین‌بلند دخترانه — خاکی روشن",
+        "sourceTitle": "Long-sleeved blouse for girls - taupe",
+        "image": "/img/catalog/1402053-long-sleeved-blouse-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420265-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1420067-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1419956-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1402053-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1401905-long-sleeved-blouse-for-girls.jpg",
+          "/img/catalog/1354029-long-sleeved-blouse-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "خاکی روشن",
+            "image": "/img/catalog/1354029-long-sleeved-blouse-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "صورتی کهنه",
+            "image": "/img/catalog/1420265-long-sleeved-blouse-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-hooded-dress-for-girls-navy-blue",
+        "title": "پیراهن کوتاه کلاه‌دار دخترانه — سرمه‌ای",
+        "sourceTitle": "Short hooded dress for girls - navy blue",
+        "image": "/img/catalog/1349218-short-hooded-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423585-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423646-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423677-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1387923-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1349004-short-hooded-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1349218-short-hooded-dress-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "خاکستری ملانژ",
+            "image": "/img/catalog/1349004-short-hooded-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز",
+            "image": "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-round-neck-jumper-for-girls-navy-blue",
+        "title": "پلیور یقه‌گرد آستین‌بلند دخترانه — سرمه‌ای",
+        "sourceTitle": "Long-sleeved round-neck jumper for girls - navy blue",
+        "image": "/img/catalog/1305396-long-sleeved-round-neck-jumper-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417931-long-sleeved-round-neck-jumper-for-girls.jpg",
+          "/img/catalog/1305401-long-sleeved-round-neck-jumper-for-girls.jpg",
+          "/img/catalog/1305375-long-sleeved-round-neck-jumper-for-girls.jpg",
+          "/img/catalog/1305396-long-sleeved-round-neck-jumper-for-girls.jpg",
+          "/img/catalog/1305446-long-sleeved-round-neck-jumper-for-girls.jpg",
+          "/img/catalog/1305348-long-sleeved-round-neck-jumper-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1417931-long-sleeved-round-neck-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1305396-long-sleeved-round-neck-jumper-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "رز",
+            "image": "/img/catalog/1305443-long-sleeved-round-neck-jumper-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "cardigan-with-jacquard-knit-hearts-for-girls-lilac",
+        "title": "ژاکت بافت ژاکارد طرح قلب دخترانه — یاسی",
+        "sourceTitle": "Cardigan with Jacquard Knit Hearts for Girls - lilac",
+        "image": "/img/catalog/1412881-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/845156-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+          "/img/catalog/845233-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+          "/img/catalog/845155-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+          "/img/catalog/993010-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+          "/img/catalog/992916-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+          "/img/catalog/1412881-cardigan-with-jacquard-knit-hearts-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "بژ طلایی",
+            "image": "/img/catalog/845156-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/455980-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "یاسی",
+            "image": "/img/catalog/1412881-cardigan-with-jacquard-knit-hearts-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.5,
+        "ratingCount": 2,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-old-rose",
+        "title": "تی‌شرت آستین‌بلند دخترانه — رز کهنه",
+        "sourceTitle": "Long-sleeved T-shirt for girls - old rose",
+        "image": "/img/catalog/1419798-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1420203-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420209-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1419789-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1419798-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420165-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1420371-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آبی شامبری",
+            "image": "/img/catalog/1420203-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/1419798-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-plum",
+        "title": "تی‌شرت آستین‌بلند دخترانه — آلویی",
+        "sourceTitle": "Long-sleeved T-shirt for girls - plum",
+        "image": "/img/catalog/1376670-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1377482-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1377555-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1376877-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1376670-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1377141-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1377083-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 550000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1376670-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1377482-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-3-leggings-for-girls-ink-blue",
+        "title": "بسته سه‌تایی ساق‌شلواری دخترانه — آبی نفتی",
+        "sourceTitle": "Pack of 3 leggings for girls - ink blue",
+        "image": "/img/catalog/1402755-pack-of-3-leggings-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1402755-pack-of-3-leggings-for-girls.jpg",
+          "/img/catalog/1376799-pack-of-3-leggings-for-girls.jpg",
+          "/img/catalog/1377008-pack-of-3-leggings-for-girls.jpg",
+          "/img/catalog/1377446-pack-of-3-leggings-for-girls.jpg",
+          "/img/catalog/1377368-pack-of-3-leggings-for-girls.jpg",
+          "/img/catalog/1376482-pack-of-3-leggings-for-girls.jpg"
+        ],
+        "price": 1800000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/1402227-pack-of-3-leggings-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آبی نفتی",
+            "image": "/img/catalog/1402755-pack-of-3-leggings-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-2-long-pyjamas-for-girls-ecru",
+        "title": "بسته دوتایی لباس‌خواب بلند دخترانه — شیری",
+        "sourceTitle": "Pack of 2 long pyjamas for girls - ecru",
+        "image": "/img/catalog/1374675-pack-of-2-long-pyjamas-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1374675-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1349346-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1349230-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1349449-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1348912-pack-of-2-long-pyjamas-for-girls.jpg",
+          "/img/catalog/1348767-pack-of-2-long-pyjamas-for-girls.jpg"
+        ],
+        "price": 2500000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1374675-pack-of-2-long-pyjamas-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "short-hooded-dress-for-girls-marl-grey",
+        "title": "پیراهن کوتاه کلاه‌دار دخترانه — خاکستری ملانژ",
+        "sourceTitle": "Short hooded dress for girls - marl grey",
+        "image": "/img/catalog/1387923-short-hooded-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423585-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423646-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1423677-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1387923-short-hooded-dress-for-girls.jpg",
+          "/img/catalog/1349004-short-hooded-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1349218-short-hooded-dress-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکستری ملانژ",
+            "image": "/img/catalog/1349004-short-hooded-dress-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "سبز",
+            "image": "/img/catalog/1423570-short-hooded-dress-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "button-through-cardigan-with-long-sleeves-for-girls-rose",
+        "title": "ژاکت جلودکمه‌دار آستین‌بلند دخترانه — رز",
+        "sourceTitle": "Button-through cardigan with long sleeves for girls - rose",
+        "image": "/img/catalog/1313226-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1441387-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1313270-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1313251-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1313249-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1441661-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+          "/img/catalog/1440476-button-through-cardigan-with-long-sleeves-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "آبی",
+            "image": "/img/catalog/1313270-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز",
+            "image": "/img/catalog/1313226-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+            "active": true
+          },
+          {
+            "name": "زرشکی",
+            "image": "/img/catalog/1313285-button-through-cardigan-with-long-sleeves-for-girls.jpg",
+            "active": false
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeve-striped-top-for-girls-plum",
+        "title": "بلوز راه‌راه آستین‌بلند دخترانه — آلویی",
+        "sourceTitle": "Long Sleeve Striped Top for Girls - plum",
+        "image": "/img/catalog/1353793-long-sleeve-striped-top-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1353793-long-sleeve-striped-top-for-girls.jpg",
+          "/img/catalog/1360687-long-sleeve-striped-top-for-girls.jpg",
+          "/img/catalog/1353400-long-sleeve-striped-top-for-girls.jpg",
+          "/img/catalog/1353813-long-sleeve-striped-top-for-girls.jpg",
+          "/img/catalog/1110075-long-sleeve-striped-top-for-girls.jpg",
+          "/img/catalog/1106513-long-sleeve-striped-top-for-girls.jpg"
+        ],
+        "price": 900000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "آبی راه‌راه",
+            "image": "/img/catalog/866384-long-sleeve-striped-top-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سبز مریمی",
+            "image": "/img/catalog/1110075-long-sleeve-striped-top-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1353793-long-sleeve-striped-top-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "sleeveless-sherpa-jacket-for-girls-plum",
+        "title": "جلیقه خزدار دخترانه — آلویی",
+        "sourceTitle": "Sleeveless Sherpa Jacket for Girls - plum",
+        "image": "/img/catalog/1427190-sleeveless-sherpa-jacket-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1330430-sleeveless-sherpa-jacket-for-girls.jpg",
+          "/img/catalog/1330550-sleeveless-sherpa-jacket-for-girls.jpg",
+          "/img/catalog/1330471-sleeveless-sherpa-jacket-for-girls.jpg",
+          "/img/catalog/1330483-sleeveless-sherpa-jacket-for-girls.jpg",
+          "/img/catalog/1427190-sleeveless-sherpa-jacket-for-girls.jpg",
+          "/img/catalog/1427372-sleeveless-sherpa-jacket-for-girls.jpg"
+        ],
+        "price": 2600000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "وانیلی",
+            "image": "/img/catalog/826363-sleeveless-sherpa-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "گلبهی",
+            "image": "/img/catalog/1330430-sleeveless-sherpa-jacket-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "آلویی",
+            "image": "/img/catalog/1427190-sleeveless-sherpa-jacket-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "jumper-for-girls-navy-blue",
+        "title": "پلیور دخترانه — سرمه‌ای",
+        "sourceTitle": "Jumper for girls - navy blue",
+        "image": "/img/catalog/1423471-jumper-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1423307-jumper-for-girls.jpg",
+          "/img/catalog/1423436-jumper-for-girls.jpg",
+          "/img/catalog/1423655-jumper-for-girls.jpg",
+          "/img/catalog/1423471-jumper-for-girls.jpg",
+          "/img/catalog/1423418-jumper-for-girls.jpg",
+          "/img/catalog/1423108-jumper-for-girls.jpg"
+        ],
+        "price": 2300000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1423307-jumper-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/1423471-jumper-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pleated-pique-knit-skirt-for-girls-marl-grey",
+        "title": "دامن پلیسه بافت پیکه دخترانه — خاکستری ملانژ",
+        "sourceTitle": "Pleated Piqué Knit Skirt for Girls - marl grey",
+        "image": "/img/catalog/1305390-pleated-pique-knit-skirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1305390-pleated-pique-knit-skirt-for-girls.jpg",
+          "/img/catalog/1305412-pleated-pique-knit-skirt-for-girls.jpg",
+          "/img/catalog/1305460-pleated-pique-knit-skirt-for-girls.jpg",
+          "/img/catalog/851141-pleated-pique-knit-skirt-for-girls.jpg",
+          "/img/catalog/845166-pleated-pique-knit-skirt-for-girls.jpg",
+          "/img/catalog/845239-pleated-pique-knit-skirt-for-girls.jpg"
+        ],
+        "price": 1800000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "سرمه‌ای",
+            "image": "/img/catalog/845166-pleated-pique-knit-skirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "خاکستری ملانژ",
+            "image": "/img/catalog/1305390-pleated-pique-knit-skirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "sequinned-sweatshirt-for-girls-mauve",
+        "title": "سویشرت پولک‌دوزی‌شده دخترانه — بنفش ملایم",
+        "sourceTitle": "Sequinned Sweatshirt for Girls - mauve",
+        "image": "/img/catalog/1313293-sequinned-sweatshirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1313293-sequinned-sweatshirt-for-girls.jpg",
+          "/img/catalog/1313225-sequinned-sweatshirt-for-girls.jpg",
+          "/img/catalog/1313240-sequinned-sweatshirt-for-girls.jpg",
+          "/img/catalog/871702-sequinned-sweatshirt-for-girls.jpg",
+          "/img/catalog/851053-sequinned-sweatshirt-for-girls.jpg",
+          "/img/catalog/806839-sequinned-sweatshirt-for-girls.jpg"
+        ],
+        "price": 2600000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "فیروزه‌ای",
+            "image": "/img/catalog/806839-sequinned-sweatshirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1313293-sequinned-sweatshirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "pack-of-3-high-neck-tops-for-girls-basics-mauve",
+        "title": "بسته سه‌تایی بلوز یقه‌بلند پایه دخترانه — بنفش ملایم",
+        "sourceTitle": "Pack of 3 High Neck Tops for Girls, BASICS - mauve",
+        "image": "/img/catalog/1454749-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+        "gallery": [
+          "/img/catalog/470899-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+          "/img/catalog/469278-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+          "/img/catalog/469044-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+          "/img/catalog/469165-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+          "/img/catalog/1419951-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+          "/img/catalog/469038-pack-of-3-high-neck-tops-for-girls-basics.jpg"
+        ],
+        "price": 1400000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "صورتی کهنه",
+            "image": "/img/catalog/470899-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1454749-pack-of-3-high-neck-tops-for-girls-basics.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۱۸ ماه تا ۲ سال",
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 4.6667,
+        "ratingCount": 3,
+        "isNew": true
+      },
+      {
+        "slug": "long-sleeved-t-shirt-for-girls-mauve",
+        "title": "تی‌شرت آستین‌بلند دخترانه — بنفش ملایم",
+        "sourceTitle": "Long-sleeved T-shirt for girls - mauve",
+        "image": "/img/catalog/1343362-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1417559-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1417877-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1417499-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1343362-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1342617-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1343061-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 1100000,
+        "wasPrice": null,
+        "colourCount": 2,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1417559-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "بنفش ملایم",
+            "image": "/img/catalog/1343362-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "customisable-long-sleeved-t-shirt-for-girls-old-rose",
+        "title": "تی‌شرت آستین‌بلند قابل شخصی‌سازی دخترانه — رز کهنه",
+        "sourceTitle": "Customisable long-sleeved T-shirt for girls - old rose",
+        "image": "/img/catalog/1378427-customisable-long-sleeved-t-shirt-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1378562-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1378431-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1378665-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1342548-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1342949-customisable-long-sleeved-t-shirt-for-girls.jpg",
+          "/img/catalog/1343421-customisable-long-sleeved-t-shirt-for-girls.jpg"
+        ],
+        "price": 600000,
+        "wasPrice": null,
+        "colourCount": 3,
+        "colourways": [
+          {
+            "name": "شیری",
+            "image": "/img/catalog/1342548-customisable-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "ذغالی",
+            "image": "/img/catalog/1378562-customisable-long-sleeved-t-shirt-for-girls.jpg",
+            "active": false
+          },
+          {
+            "name": "رز کهنه",
+            "image": "/img/catalog/1378427-customisable-long-sleeved-t-shirt-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۷/۸ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      },
+      {
+        "slug": "sweatshirt-dress-for-girls-red",
+        "title": "پیراهن سویشرتی دخترانه — قرمز",
+        "sourceTitle": "Sweatshirt dress for girls - red",
+        "image": "/img/catalog/1309353-sweatshirt-dress-for-girls.jpg",
+        "gallery": [
+          "/img/catalog/1309353-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1309334-sweatshirt-dress-for-girls.jpg",
+          "/img/catalog/1309272-sweatshirt-dress-for-girls.jpg"
+        ],
+        "price": 2000000,
+        "wasPrice": null,
+        "colourCount": 1,
+        "colourways": [
+          {
+            "name": "قرمز",
+            "image": "/img/catalog/1309353-sweatshirt-dress-for-girls.jpg",
+            "active": true
+          }
+        ],
+        "sizes": [
+          "۲/۳ سال",
+          "۳/۴ سال",
+          "۴/۵ سال",
+          "۵/۶ سال",
+          "۶/۷ سال",
+          "۷/۸ سال",
+          "۸/۹ سال",
+          "۹/۱۰ سال",
+          "۱۰/۱۲ سال",
+          "۱۲/۱۴ سال"
+        ],
+        "rating": 0,
+        "ratingCount": 0,
+        "isNew": true
+      }
+    ]
+  },
+  "pdp": {
+    "slug": "activity-mat-life",
+    "brand": "پیانو استایل",
+    "title": "تشک بازی طرح زندگی",
+    "colourName": "شیری",
+    "rating": 4.8,
+    "reviewCount": 110,
+    "price": 4330000,
+    "wasPrice": 5100000,
+    "discount": "۱۵٪",
+    "gallery": [
+      "/img/catalog/412845-activity-mat-life.jpg",
+      "/img/catalog/412797-activity-mat-life.jpg",
+      "/img/catalog/495692-activity-mat-life.jpg",
+      "/img/catalog/495466-activity-mat-life.jpg",
+      "/img/catalog/495459-activity-mat-life.jpg",
+      "/img/catalog/495434-activity-mat-life.jpg"
+    ],
+    "galleryTotal": 53,
+    "colourCount": 4,
+    "colours": [
+      {
+        "name": "شیری",
+        "image": "/img/catalog/1099738-activity-mat-life.jpg",
+        "active": true
+      },
+      {
+        "name": "بژ",
+        "image": "/img/catalog/495692-activity-mat-life.jpg",
+        "active": false
+      },
+      {
+        "name": "نارنجی",
+        "image": "/img/catalog/1356698-activity-mat-life.jpg",
+        "active": false
+      },
+      {
+        "name": "قرمز",
+        "image": "/img/catalog/255306-activity-mat-life.jpg",
+        "active": false
+      }
+    ],
+    "sizes": [
+      "تک‌سایز"
+    ],
+    "breadcrumb": [
+      {
+        "label": "خانه",
+        "url": "/"
+      },
+      {
+        "label": "دکور اتاق نوزاد",
+        "url": "/c/baby-room-decor"
+      },
+      {
+        "label": "تزیینات سیسمونی",
+        "url": "/c/nursery-decorations"
+      },
+      {
+        "label": "کوسن کف اتاق کودک",
+        "url": "/c/floor-cushions"
+      }
+    ],
+    "tabs": [
+      {
+        "title": "آنچه باید بدانید",
+        "body": "تشک بازی نرم و لطیف با رویه‌ی پنبه‌ای و لایه‌ی میانی ضخیم، برای دراز کشیدن، غلت زدن و نخستین بازی‌های نوزاد. لبه‌های دوخته‌شده فرم تشک را پس از شست‌وشو حفظ می‌کنند."
+      },
+      {
+        "title": "جزئیات محصول",
+        "body": "قطر ۹۰ سانتی‌متر • رویه: ۱۰۰٪ پنبه • الیاف داخلی: ۱۰۰٪ پلی‌استر • قابل استفاده روی هر کف صافی."
+      },
+      {
+        "title": "نگهداری",
+        "body": "شست‌وشو ممنوع • سفیدکننده‌ی کلردار ممنوع • خشک‌کن ممنوع • اتو ممنوع • خشک‌شویی ممنوع."
+      },
+      {
+        "title": "ارسال و مرجوعی",
+        "body": "ارسال به سراسر کشور • تحویل ۲ تا ۵ روز کاری • مهلت مرجوعی ۷ روز از زمان دریافت."
+      }
+    ],
+    "careLabels": [
+      "شست‌وشو ممنوع",
+      "سفیدکننده‌ی کلردار ممنوع",
+      "خشک‌کن ممنوع",
+      "اتو ممنوع",
+      "خشک‌شویی ممنوع"
+    ],
+    "edito": "کوسن و تشک کف برای اتاق کودک عالی‌اند. مدل‌های بزرگ برای لم دادن در شب‌نشینی‌ها و ساختن کلبه با دوستان مناسب‌اند و مدل‌های کوچک‌تر گوشه‌ای دنج برای کتاب خواندن می‌سازند.",
+    "relatedTitle": "انتخاب ما برای شما",
+    "alsoLikeTitle": "شاید بپسندید"
+  },
+  "footer": {
+    "newsletter": {
+      "amount": "۱٬۵۰۰٬۰۰۰ تومان",
+      "title": "تخفیف و ارسال رایگان",
+      "subtitle": "در خبرنامه‌ی ما عضو شوید",
+      "body": "عضو شوید و روی سفارش‌های بالای ۵٬۹۰۰٬۰۰۰ تومان تخفیف بگیرید، به‌علاوه‌ی ارسال رایگان در خرید بعدی.",
+      "placeholder": "نشانی ایمیل شما",
+      "cta": "عضویت",
+      "consent": "با عضویت تأیید می‌کنید که سیاست حریم خصوصی ما را خوانده‌اید و می‌پذیرید ایمیل‌های تبلیغاتی دریافت کنید. هر زمان می‌توانید لغو عضویت کنید."
+    },
+    "opinion": {
+      "score": "۴٫۶",
+      "outOf": "از ۵",
+      "label": "بر پایه‌ی نظر خریداران تأییدشده",
+      "cta": "مشاهده‌ی نظرها",
+      "url": "/page/reviews"
+    },
+    "social": {
+      "title": "ما را دنبال کنید",
+      "handle": "@pianostyle"
+    },
+    "columns": [
+      {
+        "title": "پیانو استایل",
+        "links": [
+          {
+            "label": "درباره‌ی ما",
+            "url": "/page/about"
+          },
+          {
+            "label": "برندهای ما",
+            "url": "/c/brands"
+          },
+          {
+            "label": "فروشگاه‌ها",
+            "url": "/page/stores"
+          },
+          {
+            "label": "فرصت‌های شغلی",
+            "url": "/page/careers"
+          },
+          {
+            "label": "تعهد ما",
+            "url": "/page/commitments"
+          }
+        ]
+      },
+      {
+        "title": "خدمات",
+        "links": [
+          {
+            "label": "پیگیری سفارش",
+            "url": "/page/track-order"
+          },
+          {
+            "label": "ارسال و تحویل",
+            "url": "/page/delivery"
+          },
+          {
+            "label": "مرجوعی و بازگشت وجه",
+            "url": "/page/returns"
+          },
+          {
+            "label": "روش‌های پرداخت",
+            "url": "/page/payment"
+          },
+          {
+            "label": "کارت هدیه",
+            "url": "/page/gift-card"
+          },
+          {
+            "label": "باشگاه مشتریان",
+            "url": "/page/club"
+          }
+        ]
+      },
+      {
+        "title": "راهنما",
+        "links": [
+          {
+            "label": "پرسش‌های متداول",
+            "url": "/page/faq"
+          },
+          {
+            "label": "راهنمای سایز",
+            "url": "/page/size-guide"
+          },
+          {
+            "label": "فضای مشاوره",
+            "url": "/page/advice"
+          },
+          {
+            "label": "راهنمای کیسه خواب",
+            "url": "/page/sleepbag-guide"
+          },
+          {
+            "label": "آماده‌شدن برای تولد نوزاد",
+            "url": "/page/baby-arrival"
+          }
+        ]
+      },
+      {
+        "title": "تماس",
+        "links": [
+          {
+            "label": "تماس با ما",
+            "url": "/page/contact"
+          },
+          {
+            "label": "پشتیبانی مشتریان",
+            "url": "/page/support"
+          },
+          {
+            "label": "شکایات",
+            "url": "/page/complaints"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "label": "شرایط عمومی فروش",
+        "url": "/page/terms"
+      },
+      {
+        "label": "اطلاعات قانونی",
+        "url": "/page/legal"
+      },
+      {
+        "label": "شرایط پیشنهادها",
+        "url": "/page/offers-conditions"
+      },
+      {
+        "label": "سیاست حریم خصوصی",
+        "url": "/page/privacy-policy"
+      },
+      {
+        "label": "مدیریت کوکی‌ها",
+        "url": "/page/cookies"
+      }
+    ],
+    "payment": {
+      "title": "پرداخت امن",
+      "methods": [
+        "شتاب",
+        "سامان",
+        "ملت",
+        "پارسیان",
+        "سداد"
+      ]
+    },
+    "international": {
+      "title": "سایر کشورها",
+      "links": [
+        {
+          "label": "فرانسه",
+          "url": "https://www.vertbaudet.fr/"
+        },
+        {
+          "label": "بریتانیا",
+          "url": "https://www.vertbaudet.co.uk/"
+        },
+        {
+          "label": "بین‌المللی",
+          "url": "https://www.vertbaudet.com/en/"
+        }
+      ]
+    },
+    "copyright": "© ۱۴۰۵ پیانو استایل — تمامی حقوق محفوظ است."
+  }
+}
